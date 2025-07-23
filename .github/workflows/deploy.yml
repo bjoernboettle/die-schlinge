@@ -19,6 +19,7 @@ jobs:
           name: site-${{ github.event.workflow_run.head_sha }}
           path: site
           run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
