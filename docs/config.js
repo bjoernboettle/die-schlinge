@@ -1,5 +1,5 @@
 export const config = {
-  base: "/",
+  base: "/die-schlinge/",
   pdfPrefix: "die-schlinge",
   lang: "de",
   tableOfContents: "Inhaltsverzeichnis",
