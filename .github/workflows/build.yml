@@ -22,7 +22,7 @@ jobs:
 
       - run: npm ci
 
-      - name: Build site
+      - name: Build pdf, epub and site
         run: |
           echo 'export default { base: "/die-schlinge/" }' > docs/.vitepress/config.local.js
           npm run build
