@@ -16,7 +16,7 @@ jobs:
       - name: Download site artifact
         uses: actions/download-artifact@v4
         with:
-          name: site-${{ github.sha }}
+          name: site-${{ github.event.workflow_run.head_sha }}
           path: site
 
       - name: Deploy to GitHub Pages
