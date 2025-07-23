@@ -5,6 +5,13 @@ import path from "path";
 // Falls du weiterhin eine config.js verwendest (optional)
 import { config } from "../config.js";
 
+let localConfig = {};
+try {
+  localConfig = require("./config.local.js");
+} catch (e) {
+  // Optional: Log, wenn nicht vorhanden
+}
+
 const versionPath = path.resolve(__dirname, "../../version.json");
 const versionData = JSON.parse(fs.readFileSync(versionPath, "utf-8"));
 
@@ -89,6 +96,7 @@ function toNav(structure, pdfPrefix) {
 }
 
 export default defineConfig({
+  ...localConfig,
   cleanUrls: true,
   lang: "de-DE",
   title: config.title,
