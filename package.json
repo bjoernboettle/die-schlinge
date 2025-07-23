@@ -1,0 +1,44 @@
+{
+  "name": "the-chokehold",
+  "version": "0.1.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bjoernboettle/die-schlinge.git"
+  },
+  "scripts": {
+    "check": "node ./scripts/check-docs.js --all",
+    "check:structure": "node ./scripts/check-docs.js --structure",
+    "check:links": "node ./scripts/ check-docs.js --links",
+    "check:footnotes": "node ./scripts/check-docs.js --footnotes",
+    "generate:version": "node ./scripts/generate-version.js",
+    "generate:pdf": "node ./scripts/generate-artifact.js --pdf",
+    "generate:epub": "node ./scripts/generate-artifact.js --epub",
+    "generate:footerMeta": "npm run generate:version && node ./scripts/generate-footerMeta.js",
+    "dev": "npm run generate:footerMeta && npm run generate:pdf && npm run generate:epub && vitepress dev docs",
+    "build": "npm run generate:footerMeta &&npm run generate:pdf && npm run generate:epub && vitepress build docs"
+  },
+  "dependencies": {
+    "@catppuccin/vitepress": "^0.1.2",
+    "dotenv": "^16.6.0",
+    "epub-gen-memory": "^1.1.2",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-footnote": "^3.0.3",
+    "markdown-toc": "^1.2.0",
+    "pdf-lib": "^1.17.1",
+    "puppeteer": "^22.15.0"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/exec": "^7.1.0",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^11.0.3",
+    "@semantic-release/npm": "^12.0.2",
+    "conventional-changelog-cli": "^5.0.0",
+    "conventional-changelog-conventionalcommits": "^9.0.0",
+    "md-to-pdf": "^5.2.4",
+    "semantic-release": "^24.2.5",
+    "vitepress": "^1.6.3"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "files.autoSave": "off",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "markdown.preview.scrollPreviewWithEditor": true,
+  "markdown.preview.openMarkdownLinks": "inPreview",
+  "editor.renderWhitespace": "boundary",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false
+}

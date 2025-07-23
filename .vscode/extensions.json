@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "davidanson.vscode-markdownlint", // Markdown Linting
+    "esbenp.prettier-vscode", // Prettier für Formatierung
+    "redhat.vscode-yaml", // YAML-Unterstützung
+    "znck.material-icon-theme", // Symbole für Dateien und Ordner
+    "christian-kohler.npm-intellisense", // IntelliSense für NPM-Pakete
+    "vscode.excalidraw" // Excalidraw für Diagramme
+  ],
+  "unwantedRecommendations": [
+    "dbaeumer.vscode-eslint", // Deaktiviert eslint für das Projekt
+    "editorconfig.editorconfig" // Deaktiviert EditorConfig, wenn nicht verwendet
+  ]
+}

@@ -1,0 +1,76 @@
+.cover {
+  page-break-after: always;
+}
+
+.title-page {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* wichtig für Top-Mitte-Bottom-Anordnung */
+  align-items: flex-start;
+  overflow: hidden;
+  background-position: center bottom;
+  background-size: contain; /* Bild vollständig sichtbar */
+  background-repeat: no-repeat;
+  padding: 3cm 2.5cm 2.5cm 2.5cm; /* unterer Abstand beachten */
+}
+
+.title-container {
+  z-index: 1;
+  margin-bottom: auto; /* schiebt .bottom-bar nach unten */
+}
+
+.bottom-bar {
+  z-index: 1;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 10pt;
+  color: #013220;
+  margin-top: auto; /* stellt sicher, dass es am unteren Rand sitzt */
+}
+
+.title {
+  font-size: 36pt;
+  font-weight: bold;
+  color: #000000;
+  margin: 0.3cm 0;
+}
+
+.subtitle {
+  font-size: 18pt;
+  font-weight: 300;
+  color: #2b2b2b;
+  margin: 0.2cm 0;
+}
+
+.author {
+  text-align: right;
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+.version {
+  font-weight: bold;
+  font-size: 12pt;
+}
+
+.cover-image {
+  width: 100%;
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2cm 0 1cm 0;
+  overflow: hidden;
+}
+
+.cover-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
