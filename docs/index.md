@@ -11,8 +11,8 @@ next:
 hero:
   name: Die Schlinge
   tagline: Strukturen erkennen. Muster unterbrechen. Wandel ermöglichen.
-  image:
-    src: ./assets/cover-pdf.excalidraw.png
+ image:
+    src: /die-schlinge.png
     alt: Die Schlinge
   actions:
     - theme: alt
