@@ -77,12 +77,12 @@ function toNav(structure, pdfPrefix) {
     },
     {
       text: "Download PDF",
-      link: `/archive/${pdfPrefix}-latest.pdf`,
+      link: `./archive/${pdfPrefix}-latest.pdf`,
       target: "_blank",
     },
     {
       text: "Download E-Book",
-      link: `/archive/${pdfPrefix}-latest.epub`,
+      link: `./archive/${pdfPrefix}-latest.epub`,
       target: "_blank",
     },
   ];
