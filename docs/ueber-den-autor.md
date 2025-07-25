@@ -4,51 +4,60 @@ title: "Über den Autor"
 
 # Über den Autor
 
-**Björn Böttle** (_Jahrgang 1976_) lebt mit seiner Familie in **Bretten**.\
-Er ist verheiratet, Vater zweier Kinder – und jemand, der sich fragt,\
-warum so wenig passiert, obwohl wir längst alles wissen.
+**Björn Böttle** wurde 1976 geboren und lebt mit seiner Familie in Bretten.\
+Er ist Informatiker – geprägt durch die Arbeit mit komplexen Systemen, Wechselwirkungen und Abhängigkeiten.
 
-Von Beruf ist er **Informatiker**. In seinem Arbeitsalltag beschäftigt er sich mit komplexen Systemen, Wechselwirkungen und Abhängigkeiten.\
-Diese Denkweise hat er auf gesellschaftliche Fragen übertragen – und begonnen, sich intensiver mit den Strukturen zu befassen, die Wandel verhindern.
+Er ist kein Politiker. Kein Klimaforscher. Kein Journalist.\
+Sondern Bürger – Vater zweier Kinder, Partner, Mitmensch.\
+Jemand, der Verantwortung nicht nur einfordert, sondern selbst übernehmen will – auch über das Private hinaus.
 
-> „Systeme folgen Regeln. Manche fördern Veränderung. Andere verhindern sie – leise, aber wirkungsvoll.“
+Als Vater denkt er oft darüber nach, was wir heute tun müssten, damit Zukunft möglich bleibt.\
+Und was es bedeutet, Haltung zu zeigen – auch wenn Veränderung unbequem ist.
 
-Mit _„Die Schlinge“_ hat Böttle kein klassisches Sachbuch geschrieben,\
-sondern ein **analytisch-dokumentarisches Werkzeug**:\
-für alle, die mehr verstehen wollen als das Offensichtliche –\
-und die sich fragen, **warum Wissen allein nicht reicht.**
-
-Sein Ziel:\
-Komplexes zugänglich machen – und Muster sichtbar,\
-die Veränderung behindern, obwohl sie dringend nötig wäre.
+Nicht als Aktivist. Nicht als Fachautor.\
+Sondern als jemand, der Muster erkennt – und den Punkt benennt, an dem es klemmt:\
+**Nicht das Wissen fehlt. Sondern der Wille, daraus zu handeln.**
 
 ## 🧾 Warum ich dieses Buch geschrieben habe
 
 _Ein persönlicher Kommentar_
 
-Ich bin kein Politiker. Kein Klimaforscher. Kein Journalist.\
-Ich bin Bürger – Bewohner dieses Planeten, Ehemann, Vater, Sohn, Freund.\
-Und ich bin zunehmend beunruhigt. Und, ja: auch verärgert.
+Mich treibt eine einfache, unbequeme Frage um:\
+_Wie kann eine Gesellschaft so viel wissen – und trotzdem so wenig verändern?_
 
-Nicht über das, was wir noch nicht wissen.\
-Sondern über das, was wir längst wissen – und trotzdem nicht tun.
+Die Klimakrise ist längst da. Ihre Folgen sind weltweit sichtbar: Extremwetter, Dürren, Ernteausfälle, Überschwemmungen, Konflikte.\
+Und doch verlieren wir uns immer wieder in Debatten, die Symptome betonen – statt an die Wurzel zu gehen.\
+Migration, wirtschaftliche Unsicherheit oder technologische Hoffnungserzählungen sind reale Themen.\
+Aber sie werden nicht lösbarer, wenn wir die ökologischen Grundlagen weiter untergraben.\
+**Im Gegenteil: Wer Ursachen ignoriert, verschärft die Folgen.**
 
-Mich beschäftigt nicht das fehlende Wissen. Sondern das, was daraus (nicht) folgt.\
-Mich besorgt das Einlullen, das Vertrösten, das ständige Hinauszögern –\
-die Gleichgültigkeit, die sich zwischen all dem breitmacht.
+Ich nehme diese Sorgen ernst.\
+Ich sehe, dass Menschen fliehen – vor Not, Krieg, Hunger.\
+Ich verstehe, dass wirtschaftliche Stabilität wichtig ist.\
+Aber genau deshalb ist es gefährlich, die Klimakrise weiter auszublenden:\
+**Wer ihre Ursachen nicht bekämpft, wird ihre Folgen nicht bewältigen.**\
+Mehr Flucht, mehr Krisen, mehr globale Spannungen – und am Ende auch wirtschaftlicher Rückschritt.
 
-Ich kann das nicht mehr hören:\
-„Wir müssen alle mitnehmen.“ – „Wir haben noch Zeit.“ – „Die Technik wird’s schon richten.“
+Was wir heute erleben, ist nicht das Ende.\
+Es ist der Anfang – **wenn wir weiter zögern**.
 
-In meinem Beruf habe ich gelernt, systemisch zu denken.\
-Aber dieses Buch ist kein Fachtext. Es ist ein Versuch, Muster sichtbar zu machen,\
-die uns immer wieder aufhalten – auch dann, wenn wir längst weiter sein könnten.
+Ich beobachte, wie Verantwortung zerredet, Zeit verschleppt und Klarheit vermieden wird.\
+Wie Scheindebatten geführt werden, um strukturelle Probleme nicht anpacken zu müssen.\
+Und wie technologische Hoffnungen als Ersatz für echte politische Entscheidungen dienen.
 
-> _Wir brauchen keine weiteren Beweise. Wir brauchen Klarheit über das, was uns blockiert – und den Mut, daran zu rütteln._
+In meinem Beruf als Informatiker habe ich gelernt, systemisch zu denken.\
+Ich erkenne Muster – komplexe Wechselwirkungen, unsichtbare Bremsen, träge Dynamiken.\
+Und ich sehe: Dieses System verhindert Veränderung nicht durch offene Ablehnung – sondern durch Verzögerung, Zerstreuung und institutionalisierte Ineffektivität.
 
-Ich wollte nicht der nächste sein, der schweigt.
+_„Die Schlinge“_ ist mein Versuch, diese Muster sichtbar zu machen.\
+Kein Fachbuch. Kein Appell. Kein Dogma.
 
-_„Die Schlinge“_ ist mein Beitrag dazu.
+Sondern ein dokumentarisches Werkzeug – offen, modular, zugänglich.\
+Für alle, die nicht nur Symptome benennen wollen, sondern die Ursachen verstehen.\
+Für alle, die sich fragen, warum wir trotz allem Wissen nicht vorankommen –\
+und was es braucht, damit aus Einsicht endlich Handlung wird.
+
+Ich wollte nicht der Nächste sein, der schweigt.
 
 —
 **Björn Böttle**\
