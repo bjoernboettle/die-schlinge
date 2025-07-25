@@ -5,7 +5,7 @@
 > **Hinweis:**\
 > Dieses Dossier ist als **offenes, modulares Werkzeug** konzipiert – kein statischer Bericht, sondern ein kollaborativ nutzbares, erweiterbares und didaktisch adaptierbares System-Tool für gesellschaftliche Analyse und Bildung. Beiträge, Nachnutzungen und kreative Weiterentwicklungen sind ausdrücklich erwünscht!
 
-[![GitHub Pages](https://img.shields.io/badge/view%20online-GitHub%20Pages-blue)](https://die-schlinge.github.io/die-schlinge/)
+[![GitHub Pages](https://img.shields.io/badge/view%20online-GitHub%20Pages-blue)](https://bjoernboettle.github.io/die-schlinge/)
 
 ---
 
@@ -33,7 +33,7 @@ Die Texte, Fakten und szenischen Einleitungen basieren auf öffentlich belegbare
 ## Online lesen
 
 Das Dossier ist direkt als GitHub Page verfügbar:\
-➡️ [Zur Online-Version](https://die-schlinge.github.io/die-schlinge/)
+➡️ [Zur Online-Version](https://bjoernboettle.github.io/die-schlinge/)
 
 ---
 
