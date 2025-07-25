@@ -20,20 +20,22 @@ hero:
       link: https://github.com/bjoernboettle/die-schlinge
 
 features:
-  - icon: 🧭
-    title: Einstieg & Einordnung
-    details: Warum Wissen nicht reicht – und wie dieses Dossier Orientierung bietet.
-    link: /03_warum-wissen-nicht-reicht
+  - icon: 🌐
+    title: Dossier online lesen
+    details: Die Webversion ist frei zugänglich, modular verlinkbar und laufend aktualisierbar.
+    link: https://die-schlinge.github.io/die-schlinge/
 
-  - icon: 🧠
-    title: Strukturen verstehen
-    details: Die Schlüssel­ebenen zeigen, wie systemische Blockaden wirken – und sich stabilisieren.
-    link: /06_schluesselebenen/00_einleitung
+  - icon: 📄
+    title: PDF herunterladen
+    details: Die gesamte Version als barrierearmes PDF – ideal zum Offline-Lesen oder Drucken.
+    link: https://3YYxRo.short.gy/KTY7KG
+    target: _blank
 
-  - icon: ✊
-    title: Wandel gestalten
-    details: Werkzeuge, Rollen und Perspektiven für systemischen Wandel in Bildung, Alltag und Gesellschaft.
-    link: /07_gegenmacht/00_einleitung
+  - icon: 📚
+    title: E-Book (EPUB)
+    details: Für Reader & mobile Geräte – alle Kapitel als E-Book, offen lizenziert.
+    link: https://3YYxRo.short.gy/jLGVYp
+    target: _blank
 ---
 
 ## _Die Schlinge – Strukturen erkennen. Muster unterbrechen. Wandel ermöglichen._
