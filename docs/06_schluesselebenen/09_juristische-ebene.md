@@ -38,6 +38,7 @@ Gerichte werden zunehmend zu Treibern für Klimagerechtigkeit – und setzen dor
 - **Shell (2021):** Auch Konzerne können zu Emissionsreduktion gezwungen werden – inklusive Scope 3.[^jurist2]
 - **BVerfG (DE):** Klimaschutz wurde zum Bestandteil generationenübergreifender Freiheitsrechte.[^jurist4]
 - **EGMR (2024):** Klimaschutz ist einklagbares Menschenrecht – ein global wirksames Signal.[^jurist13]
+- **IGH (2025):** Der Internationale Gerichtshof stellt fest: Staaten sind völkerrechtlich verpflichtet, Klimaschäden zu verhindern – auch extraterritorial. Ein historisches Gutachten mit globaler Ausstrahlung.[^jurist14]
 
 ### 📚 Szene B: Der lange Atem der Zivilgesellschaft _(verdichtete Darstellung)_
 
@@ -83,7 +84,7 @@ Diese Szene verdichtet reale Entwicklungen – und gibt dem langen Atem der Zivi
 - **Urgenda vs. Niederlande (2019):** Der niederländische Staat wird verpflichtet, seine Emissionen zu senken – zum Schutz von Leben und körperlicher Unversehrtheit (Art. 2 & 8 EMRK).[^jurist1]
 - **Milieudefensie vs. Shell (2021):** Shell muss seine CO₂-Emissionen „by net 45% by 2030, relative to 2019 levels“ reduzieren.[^jurist2]
 - **Juliana vs. USA:** Jugendliche klagen auf ein verfassungsmäßiges Recht auf ein stabiles Klima. Sie berufen sich auf die „Public Trust Doctrine“ (Treu- und Schutzverpflichtung des Staates gegenüber künftigen Generationen) – trotz Rückschlägen läuft das Verfahren weiter.[^jurist3]
-- **Internationale Klagen:** Pazifische Inselstaaten fordern globale Verantwortlichkeit vor internationalen Gerichten – mit dem Ziel, extraterritoriale Emissionsverantwortung rechtlich festzuschreiben.
+- **IGH-Gutachten zu internationalen Klimaklagen (2023–2025):** Auf Initiative pazifischer Inselstaaten wie Vanuatu und Tuvalu befasst sich der Internationale Gerichtshof erstmals mit der Frage, ob Staaten völkerrechtlich für Klimaschäden haftbar sind. Das Advisory Opinion vom Juli 2025 stellt klar: Staaten sind verpflichtet, klimaschädliche Handlungen auch extraterritorial zu unterlassen – andernfalls droht internationale Haftung.[^jurist14]
 
 ### Nationale Entwicklungen: Verfassungen reagieren
 
@@ -185,6 +186,7 @@ Zugleich bleibt die Umsetzung juristischer Entscheidungen **politisch abhängig*
 | Advertising Standards Authority             | 2022  | Verwaltungsentscheidung              | Irreführende Klimawerbung durch HSBC gerichtlich beanstandet                  | [^jurist11]          |
 | Setzer, J., & Higham, C.                    | 2023  | Wissenschaftliche Studie             | Anstieg von Klimaklagen gegen Unternehmen                                     | [^jurist12]          |
 | Europäischer Gerichtshof für Menschenrechte | 2024  | Gerichtsurteil                       | Verletzung von Art. 8 und 6 EMRK wegen unzureichendem Klimaschutz             | [^jurist13]          |
+| International Court of Justice              | 2025  | Gerichtsurteil (Zusammenfassung)     | Staaten sind völkerrechtlich verpflichtet, Klimaschäden zu verhindern         | [^jurist14]          |
 
 [^jurist1]: Hoge Raad der Nederlanden (2019): _Urgenda Foundation v. State of the Netherlands_, Urteil vom 20.12.2019 – ECLI:NL:HR:2019:2006. [Gerichtsurteil]. Verfügbar unter: [https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:2006](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:2006) [Zugriff am: 20.07.2025].
 [^jurist2]: Rechtbank Den Haag (2021): _Milieudefensie et al. v. Royal Dutch Shell plc_, Urteil vom 26.05.2021 – C/09/571932 / HA ZA 19-379, Abschnitt 4.4.4. Das Gericht stellte fest: „Royal Dutch Shell must reduce its CO₂ emissions by net 45% by 2030, relative to 2019 levels.“ [Gerichtsurteil]. Verfügbar unter: [https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:5339](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2021:5339) [Zugriff am: 20.07.2025].
@@ -199,5 +201,6 @@ Zugleich bleibt die Umsetzung juristischer Entscheidungen **politisch abhängig*
 [^jurist11]: Advertising Standards Authority (2022): _ASA ruling on HSBC UK Bank plc – Misleading climate-related advertising_, Entscheidung vom 19.10.2022. [Verwaltungsentscheidung]. Verfügbar unter: [https://climatecasechart.com/non-us-case/asa-ruling-on-hsbc-uk-bank-plc/](https://climatecasechart.com/non-us-case/asa-ruling-on-hsbc-uk-bank-plc/) [Zugriff am: 20.07.2025].
 [^jurist12]: Setzer, J., & Higham, C. (2023): _Global trends in climate change litigation: 2023 snapshot_. [Wissenschaftliche Studie]. Grantham Research Institute on Climate Change and the Environment, London School of Economics, S. 2–3. Verfügbar unter: [https://www.lse.ac.uk/granthaminstitute/publication/global-trends-in-climate-change-litigation-2023-snapshot/](https://www.lse.ac.uk/granthaminstitute/publication/global-trends-in-climate-change-litigation-2023-snapshot/) [Zugriff am: 20.07.2025].
 [^jurist13]: Europäischer Gerichtshof für Menschenrechte (2024): _Verein KlimaSeniorinnen Schweiz and Others v. Switzerland_, Urteil vom 09.04.2024, Appl. No. 53600/20. Der EGMR stellte eine Verletzung von Art. 8 und Art. 6 EMRK fest; keine Feststellung zu Art. 2 EMRK (Recht auf Leben). [Gerichtsurteil]. Verfügbar unter: [https://hudoc.echr.coe.int/eng?i=001-233206](https://hudoc.echr.coe.int/eng?i=001-233206) [Zugriff am: 20.07.2025].
+[^jurist14]: International Court of Justice (2025): _Obligations of States in respect of Climate Change – Summary 2025/2_. [Offizielle Zusammenfassung des Advisory Opinion]. Verfügbar unter: [https://www.icj-cij.org/sites/default/files/case-related/187/187-20250723-sum-01-00-en.pdf](https://www.icj-cij.org/sites/default/files/case-related/187/187-20250723-sum-01-00-en.pdf) [Zugriff am: 26.07.2025].
 
 <Footer />
