@@ -22,6 +22,7 @@ Wenn Regierungen beim Schutz von Rechten versagen, greifen Gerichte ein – und 
 - **Deutschland (2021):** Das Bundesverfassungsgericht verpflichtet die Bundesregierung zur Nachbesserung des Klimaschutzgesetzes.
   **Begründung:** Unzureichender Klimaschutz verletzt die Freiheitsrechte künftiger Generationen.künftiger Generation.[^risse1][^risse15]
 - **Niederlande (2019):** Im _Urgenda_-Verfahren urteilt das höchste Gericht: Der Staat verletzt durch Untätigkeit seine menschenrechtlichen Verpflichtungen nach der EMRK (Europäische Menschenrechtskonvention).[^risse2]
+- **IGH (2025):** Der Internationale Gerichtshof urteilt in einem historischen Gutachten: Staaten sind völkerrechtlich verpflichtet, klimaschädliche Handlungen auch über Landesgrenzen hinweg zu unterlassen – andernfalls droht internationale Haftung. Die Initiative ging von pazifischen Inselstaaten aus.[^risse16]
 
 ➡ **Wirkung:** Klimaschutz wird einklagbar – als Grundrecht.
 
@@ -78,23 +79,24 @@ Fakten allein verändern nichts – doch wenn sie öffentlich und nachvollziehba
 
 > Diese Tabelle listet belegte Aussagen des Kapitels.
 
-| Quelle / Autor                                   | Jahr  | Quelle (Typ)             | Belegt was?                                                         | Verlinkung / Fundort |
-| ------------------------------------------------ | ----- | ------------------------ | ------------------------------------------------------------------- | -------------------- |
-| Bundesverfassungsgericht                         | 2021  | Gerichtsurteil           | Klimaschutzgesetz verletzt Freiheitsrechte zukünftiger Generationen | [^risse1]            |
-| Urgenda Foundation v. The Netherlands            | 2019  | Gerichtsurteil           | Staat verstößt durch Untätigkeit gegen Menschenrechte               | [^risse2]            |
-| Climate Emergency Declaration                    | 2023  | NGO-Bericht              | Städte rufen weltweit Klimanotstand aus                             | [^risse3]            |
-| Reuters                                          | 2023  | Investigative Recherche  | Ecuador stimmt gegen Ölbohrung im Yasuní                            | [^risse4]            |
-| Corte Suprema de Justicia de Colombia            | 2018  | Gerichtsurteil           | Amazonas als Rechtssubjekt anerkannt                                | [^risse5]            |
-| InsideClimate News                               | 2015  | Investigative Recherche  | Exxon wusste früh über Klimarisiken                                 | [^risse6]            |
-| Europäischer Gerichtshof für Menschenrechte      | 2024  | Gerichtsurteil           | Klimapolitik verletzt Rechte älterer Frauen                         | [^risse7]            |
-| Euronews                                         | 2021  | Medienbericht            | Amsterdam verbietet fossile Werbung                                 | [^risse8]            |
-| Ajuntament de Barcelona                          | o. J. | Offizielles Dokument     | Superblocks reduzieren Verkehr und Emissionen                       | [^risse9]            |
-| Supran, G., & Oreskes, N.                        | 2023  | Wissenschaftliche Studie | ExxonMobil streute Zweifel trotz Klimawissen                        | [^risse10]           |
-| Bloomberg                                        | 2021  | Medienbericht            | Umbau öffentlicher Räume in Paris                                   | [^risse11]           |
-| Stadt Wien                                       | 2022  | Offizielles Dokument     | Klimapolitik und Städtebau in Wien                                  | [^risse12]           |
-| Intergovernmental Panel on Climate Change (IPCC) | 2022  | Peer-Review-Report       | Einfluss gesellschaftlicher Bewegungen wie _Fridays for Future_     | [^risse13]           |
-| Ajuntament de Barcelona                          | 2022  | Offizielles Dokument     | Superblock-Modell verbessert öffentlichen Raum                      | [^risse14]           |
-| Bundesverfassungsgericht                         | 2021  | Offizielles Dokument     | Pressemitteilung zum Urteil zum Klimaschutzgesetz                   | [^risse15]           |
+| Quelle / Autor                                   | Jahr  | Quelle (Typ)                     | Belegt was?                                                         | Verlinkung / Fundort |
+| ------------------------------------------------ | ----- | -------------------------------- | ------------------------------------------------------------------- | -------------------- |
+| Bundesverfassungsgericht                         | 2021  | Gerichtsurteil                   | Klimaschutzgesetz verletzt Freiheitsrechte zukünftiger Generationen | [^risse1]            |
+| Urgenda Foundation v. The Netherlands            | 2019  | Gerichtsurteil                   | Staat verstößt durch Untätigkeit gegen Menschenrechte               | [^risse2]            |
+| Climate Emergency Declaration                    | 2023  | NGO-Bericht                      | Städte rufen weltweit Klimanotstand aus                             | [^risse3]            |
+| Reuters                                          | 2023  | Investigative Recherche          | Ecuador stimmt gegen Ölbohrung im Yasuní                            | [^risse4]            |
+| Corte Suprema de Justicia de Colombia            | 2018  | Gerichtsurteil                   | Amazonas als Rechtssubjekt anerkannt                                | [^risse5]            |
+| InsideClimate News                               | 2015  | Investigative Recherche          | Exxon wusste früh über Klimarisiken                                 | [^risse6]            |
+| Europäischer Gerichtshof für Menschenrechte      | 2024  | Gerichtsurteil                   | Klimapolitik verletzt Rechte älterer Frauen                         | [^risse7]            |
+| Euronews                                         | 2021  | Medienbericht                    | Amsterdam verbietet fossile Werbung                                 | [^risse8]            |
+| Ajuntament de Barcelona                          | o. J. | Offizielles Dokument             | Superblocks reduzieren Verkehr und Emissionen                       | [^risse9]            |
+| Supran, G., & Oreskes, N.                        | 2023  | Wissenschaftliche Studie         | ExxonMobil streute Zweifel trotz Klimawissen                        | [^risse10]           |
+| Bloomberg                                        | 2021  | Medienbericht                    | Umbau öffentlicher Räume in Paris                                   | [^risse11]           |
+| Stadt Wien                                       | 2022  | Offizielles Dokument             | Klimapolitik und Städtebau in Wien                                  | [^risse12]           |
+| Intergovernmental Panel on Climate Change (IPCC) | 2022  | Peer-Review-Report               | Einfluss gesellschaftlicher Bewegungen wie _Fridays for Future_     | [^risse13]           |
+| Ajuntament de Barcelona                          | 2022  | Offizielles Dokument             | Superblock-Modell verbessert öffentlichen Raum                      | [^risse14]           |
+| Bundesverfassungsgericht                         | 2021  | Offizielles Dokument             | Pressemitteilung zum Urteil zum Klimaschutzgesetz                   | [^risse15]           |
+| International Court of Justice                   | 2025  | Gerichtsurteil (Zusammenfassung) | Staaten müssen völkerrechtlich gegen Klimaschäden handeln           | [^risse16]           |
 
 [^risse1]: Bundesverfassungsgericht (2021): Beschluss vom 24. März 2021 – 1 BvR 2656/18 u.a. [Gerichtsurteil]. Verfügbar unter: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rs20210324_1bvr265618.html) [Zugriff am: 20.07.2025].
 [^risse2]: Hoge Raad der Nederlanden (2019): Urteil in der Rechtssache _Stichting Urgenda v. Staat der Niederlande_, ECLI:NL:HR:2019:2007. [Gerichtsurteil]. Verfügbar unter: [https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:2007](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2019:2007) [Zugriff am: 20.07.2025].
@@ -111,5 +113,6 @@ Fakten allein verändern nichts – doch wenn sie öffentlich und nachvollziehba
 [^risse13]: Intergovernmental Panel on Climate Change (IPCC) (2022): _AR6 Climate Change 2022: Mitigation of Climate Change – Working Group III_, Kapitel 14: Social Aspects of Mitigation, S. 1508. [Peer-Review-Report]. Verfügbar unter: [https://www.ipcc.ch/report/ar6/wg3/](https://www.ipcc.ch/report/ar6/wg3/) [Zugriff am: 20.07.2025].
 [^risse14]: Ajuntament de Barcelona (2022): _SUPERBLOCK – The Barcelona model for improving public space and mobility_ [PDF]. [Offizielles Dokument]. Verfügbar unter: [https://bcnroc.ajuntament.barcelona.cat/jspui/bitstream/11703/132999/1/SUPERBLOCK.pdf](https://bcnroc.ajuntament.barcelona.cat/jspui/bitstream/11703/132999/1/SUPERBLOCK.pdf) [Zugriff am: 20.07.2025].
 [^risse15]: Bundesverfassungsgericht (2021): Pressemitteilung Nr. 31/2021 zum Beschluss vom 24. März 2021. [Offizielles Dokument]. Verfügbar unter: [https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2021/bvg21-031.html](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2021/bvg21-031.html) [Zugriff am: 20.07.2025].
+[^risse16]: International Court of Justice (2025): _Obligations of States in respect of Climate Change – Summary 2025/2_. [Offizielle Zusammenfassung des Advisory Opinion]. Verfügbar unter: [https://www.icj-cij.org/sites/default/files/case-related/187/187-20250723-sum-01-00-en.pdf](https://www.icj-cij.org/sites/default/files/case-related/187/187-20250723-sum-01-00-en.pdf) [Zugriff am: 26.07.2025].
 
 <Footer />
