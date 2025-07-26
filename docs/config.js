@@ -257,6 +257,7 @@ export const config = {
     },
     { title: "Nachwort", file: "nachwort.md" },
     { title: "Impressum", file: "impressum.md" },
+    { title: "Datenschutzerklärung", file: "datenschutz.md" },
     { title: "Rechtliche Hinweise & Lizenz", file: "rechtliches.md" },
     { title: "Über den Autor", file: "ueber-den-autor.md" },
   ],
@@ -265,6 +266,6 @@ export const config = {
       year: "numeric",
       month: "short",
     })} ${author} · "${title}" (v${version}) · Lizenz: CC BY-SA 4.0 · ` +
-    `Feedback oder Fehlerhinweise: <a href="https://github.com/bjoernboettle/die-schlinge">GitHub</a><br />` +
-    `<b>Maßgeblich ist nur die offizielle Version unter <a href="https://github.com/bjoernboettle/die-schlinge">github.com/bjoernboettle/die-schlinge</a></b>`,
+    `Feedback oder Fehlerhinweise: <a href="https://github.com/bjoernboettle/die-schlinge/issues">GitHub</a><br />` +
+    `<b>Maßgeblich ist nur die offizielle Version unter <a href="https://bjoernboettle.github.io/die-schlinge">bjoernboettle.github.io/die-schlinge</a></b>`,
 };

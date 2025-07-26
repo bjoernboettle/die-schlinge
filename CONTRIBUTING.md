@@ -190,7 +190,7 @@ Vor Push kannst du die wichtigsten Checks ausführen:
 ### Weiterführend / Hilfe
 
 - **Feedback, Korrekturen, Fragen:**\
-  Stelle ein [Issue](https://github.com/bjoernboettle/die-schlinge/issues) oder mache einen Pull Request!
+  Stelle ein [Issue](https://github.com/bjoernboettle/die-schlinge/issues) oder mache einen [Pull Request](https://github.com/bjoernboettle/die-schlinge/pulls)!
 - **PDF/Release-Probleme?**
   Prüfe die Skripte in `scripts/`, sie sind kommentiert.
 - **VitePress-Doku:**\

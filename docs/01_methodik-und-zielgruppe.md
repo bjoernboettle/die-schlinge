@@ -82,8 +82,8 @@ Ziel ist die **Verdichtung struktureller Wirkmechanismen** – **nicht** die Dar
 > Dieses Dossier versteht sich als **offenes, modulares Werkzeug-Dossier**. Es lädt ausdrücklich zur kollaborativen Nutzung, Erweiterung und didaktischen Adaption ein – im Sinne eines lebendigen, gemeinsam nutzbaren Tools für systemische Analyse und gesellschaftliche Bildung.
 >
 > **Offen für alle:**\
-> Dieses Dossier ist barrierefrei und als „lebendes Dokument“ auf [GitHub](https://github.com/bjoernboettle/die-schlinge) veröffentlicht. Jede:r ist eingeladen, mitzuwirken, zu ergänzen oder zu diskutieren – via Pull Request, Issue oder Mail.\
-> Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)\
-> Kontakt: [kontakt@die-schlinge.de](mailto:kontakt@die-schlinge.de)
+> Dieses Dossier ist **barrierefrei** auf [GitHub Pages](https://bjoernboettle.github.io/die-schlinge) zugänglich - und der gesamte Quelltext liegt im [GitHub-Repository](https://github.com/bjoernboettle/die-schlinge) offen zur Mitgestaltung.\
+> Beiträge sind willkommen – per [Pull Request](https://github.com/bjoernboettle/die-schlinge/pulls), [Issue](https://github.com/bjoernboettle/die-schlinge/issues) oder [Mail](mailto:kontakt@die-schlinge.de).
+> Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
 <Footer />
