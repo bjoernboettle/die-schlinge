@@ -77,17 +77,15 @@ Was du damit tust – gehört dir auch.
 ## 🛠 Dieses Dossier bleibt offen – mach mit!
 
 > Dieses Dossier ist kein abgeschlossenes Buch, sondern ein _offenes Werkzeug_.\
-> Es ist entstanden, um weiterentwickelt, ergänzt, irritiert zu werden.\
-> Jede:r kann beitragen – ob mit neuen Quellen, Korrekturen, eigenen Perspektiven oder didaktischen Modulen.
+> Es will ergänzt, irritiert und weitergedacht werden – durch neue Quellen, Perspektiven oder didaktische Impulse.
 
-**Mitmachen geht einfach:**
+**Beteilige dich direkt:**
 
-- [Auf GitHub mitdiskutieren oder eigene Beiträge einreichen](https://github.com/bjoernboettle/die-schlinge)
-- Korrekturen und Ergänzungen per [Pull Request](https://github.com/bjoernboettle/die-schlinge/pulls) oder [Issue](https://github.com/bjoernboettle/die-schlinge/issues)
-- Oder direkt Kontakt aufnehmen: [skontakt@die-schlinge.de](mailto:kontakt@die-schlinge.de)
+- 💬 [Diskutieren oder Beiträge einreichen auf GitHub – per [Issue](https://github.com/bjoernboettle/die-schlinge/issues) oder [Pull Request](https://github.com/bjoernboettle/die-schlinge/pulls)
+- ✉️ Oder schreib an: [kontakt@die-schlinge.de](mailto:kontakt@die-schlinge.de)
 
-_Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) – Nutzung, Zitat und Weitergabe ausdrücklich erwünscht. Das Dossier lebt von Beteiligung._
+_Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de) – Nutzung, Zitat und Weitergabe ausdrücklich erwünscht. Dieses Dossier lebt von Beteiligung._
 
-> **Wenn dich dieser Text gestört, angeregt oder geärgert hat: Mach mit, bring dich ein, reiß Lücken – oder schlage neue Wege vor.**
+> **Wenn dich dieser Text gestört, angeregt oder geärgert hat: Mach mit. Reiß Lücken – oder schlage neue Wege vor.**
 
 <Footer />

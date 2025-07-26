@@ -33,9 +33,9 @@ Dieses Dossier ist als **offenes, modulares Werkzeug-Dossier** konzipiert – ke
 ---
 
 **Offene Lizenz · Mitmachen ausdrücklich erwünscht**\
-Dieses Dossier wird offen, barrierefrei und als GitHub Page veröffentlicht.\
+Dieses Dossier wird offen, barrierefrei und als [GitHub Page](https://bjoernboettle.github.io/die-schlinge) veröffentlicht.\
 Verbreitung, Veränderung und Nachnutzung sind ausdrücklich erlaubt – unter Namensnennung und gleicher Lizenz ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)).\
-Jede:r ist eingeladen, mitzuwirken: Korrekturen, Ergänzungen, neue Quellen oder didaktische Module können per [Pull Request](https://github.com/bjoernboettle/die-schlinge) oder [Issue](https://github.com/bjoernboettle/die-schlinge/issues) eingereicht werden.\
+Jede:r ist eingeladen, mitzuwirken: Korrekturen, Ergänzungen, neue Quellen oder didaktische Module können per [Pull Request](https://github.com/bjoernboettle/die-schlinge/pulls) oder [Issue](https://github.com/bjoernboettle/die-schlinge/issues) eingereicht werden.\
 Das Ziel: ein „lebendes Dokument“, das gemeinsam wachsen und aktuell bleiben kann.
 
 **Repository:**\

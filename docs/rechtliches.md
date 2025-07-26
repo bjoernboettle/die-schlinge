@@ -30,7 +30,7 @@ Bewertungen, Narrative und Metaphern spiegeln **persönliche Einschätzungen** w
 > Dieses Dossier ist bewusst offen lizenziert (CC BY-SA 4.0) und darf bearbeitet, ergänzt oder in veränderter Form weiterverbreitet werden.\
 > Für Inhalte, die nachträglich durch Dritte verändert, ergänzt oder verfälscht werden, übernimmt der ursprüngliche Autor keinerlei Verantwortung.
 >
-> Verbindlich, aktuell und authentisch ist stets nur die **offizielle Version**, abrufbar unter [https://github.com/bjoernboettle/die-schlinge](https://github.com/bjoernboettle/die-schlinge).
+> Verbindlich, aktuell und authentisch ist stets nur die **offizielle Version**, abrufbar unter [https://bjoernboettle.github.io/die-schlinge](https://bjoernboettle.github.io/die-schlinge).
 >
 > **Hinweis an Nutzer:innen:**\
 > Bearbeitungen, Ergänzungen oder Weiterentwicklungen durch Dritte müssen klar und transparent als solche gekennzeichnet werden. Die Verantwortung für den Inhalt solcher veränderten Versionen liegt ausschließlich bei den jeweiligen Bearbeitenden.
