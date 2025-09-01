@@ -23,7 +23,7 @@ features:
   - icon: 🌐
     title: Dossier online lesen
     details: Die Webversion ist frei zugänglich, modular verlinkbar und laufend aktualisierbar.
-    link: https://die-schlinge.github.io/die-schlinge/
+    link: https://bjoernboettle.github.io/die-schlinge/prolog
 
   - icon: 📄
     title: PDF herunterladen

@@ -31,7 +31,7 @@ Jetzt brauchst du keinen Appell. Kein Ideal. Sondern einen konkreten Eingriffspu
 
 📍 **Wer?** Bürger:in, Schüler:in, Journalist:in\
 📍 **Wo?** Stadtverwaltung, Schule, Gemeinderat\
-📍 **Wie?** IFG-Antrag, Ratsanfrage, Bürger:innenbrief
+📍 **Wie?** Informationsfreiheitsgesetz-Antrag (IFG-Antrag), Ratsanfrage, Bürger:innenbrief
 
 > "Wie viele Dienstflüge hat die Verwaltung im letzten Jahr gemacht?"\
 > "Welche Firmen haben den aktuellen Energiebericht mitgeschrieben?"\
