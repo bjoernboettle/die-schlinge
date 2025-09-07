@@ -3,7 +3,6 @@ import { getVersionInfo, writeVersionFile } from "./lib/getVersionInfo.js";
 
 const branchesConfig = [
   { name: "main" },
-  { name: "develop", prerelease: "beta" },
   { name: "feature/**", prerelease: "beta" },
 ];
 
