@@ -125,12 +125,8 @@ export const config = {
           file: "07_gegenmacht/05_risse-im-system.md",
         },
         {
-          title: "7.6 Fallbeispiele",
-          file: "07_gegenmacht/06_fallbeispiele.md",
-        },
-        {
-          title: "7.7 Kommunale Praxis",
-          file: "07_gegenmacht/07_kommunale-praxis.md",
+          title: "7.6 Kommunale Praxis",
+          file: "07_gegenmacht/06_kommunale-praxis.md",
         },
       ],
     },

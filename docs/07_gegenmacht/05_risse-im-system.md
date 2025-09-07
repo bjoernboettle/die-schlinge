@@ -72,9 +72,6 @@ Fakten allein verändern nichts – doch wenn sie öffentlich und nachvollziehba
 > Systeme kippen selten durch Einsicht.\
 > Aber oft durch **Risse, die keiner mehr schließen kann.**
 
-**Weiterlesen:**
-→ _Kapitel 8.6: Fallbeispiele_ – Handlung in Miniatur, lokal, konkret, inspirierend.
-
 ## 🧾 Quellenbasis
 
 > Diese Tabelle listet belegte Aussagen des Kapitels.

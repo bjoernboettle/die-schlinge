@@ -35,8 +35,7 @@ Das Klima? Läuft im Hintergrund weiter.
 
 #### Einordnung
 
-Diese Szene ist fiktiv – aber sie verdichtet reale Muster:\
-Kognitive Dissonanz, moralisches Lizenzieren und soziale Routinen blockieren trotz Wissen das Handeln.[^gesellschaft2][^gesellschaft3][^gesellschaft5]
+Die Szene bündelt drei gut belegte Mechanismen, die zwischen Wissen und Handeln stehen: kognitive Dissonanz, moralisches Lizenzieren und soziale Normen. Sie zeigen, warum Einsicht oft nicht in Verhalten übersetzt wird.
 
 #### Faktischer Hintergrund
 
@@ -216,7 +215,7 @@ Wie der Psychologe Stoknes betont:
 | **Typischer Akteur**                   | Individuen, Familien, soziale Gruppen, zivilgesellschaftliche Initiativen, betroffene Gemeinschaften weltweit.                             |
 | **Strategieform**                      | Verdrängung, kognitive Dissonanz, Moral Licensing, soziale Konformität; zugleich: lokale Selbstorganisation in vulnerablen Regionen.       |
 | **Mechanik der Wirkung**               | Psychische Schutzmechanismen und soziale Routinen verhindern konsequente Klimahandlung – trotz vorhandener Einsicht.                       |
-| **Regionale Verankerung**              | Global: in Industrieländern vor allem psychologische Blockaden, in Ländern des Südens pragmatische Resilienzstrategien.                    |
+| **Regionale Verankerung**              | Global: in Industrieländern vor allem psychologische und soziologische Blockaden, in Ländern des Südens pragmatische Resilienzstrategien.  |
 | **Export von Strategien in den Süden** | Umgekehrt: Von marginalisierten Regionen geht ein Lernimpuls aus – durch lokale, erfahrungsbasierte Klimaanpassung.                        |
 | **Begrifflicher Anker**                | „Kognitive Dissonanz“, „Moral Licensing“, „soziale Konformität“, „emotionaler Rückzug“, „Alltagsbarrieren“, „Diskursmacht“                 |
 | **Riss im Muster**                     | Zivilgesellschaftliche Selbsthilfe in Bangladesch: mobile Schulen, Solaranlagen, Frühwarnsysteme – jenseits staatlicher Strukturen.        |

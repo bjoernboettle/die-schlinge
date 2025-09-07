@@ -6,68 +6,28 @@ description: >
 
 # Kapitel 1 – Methodik & Zielgruppe
 
-_Dies ist kein Bericht. Kein Appell. Kein Versuch, dich zu überzeugen._
-
-Dieses Dossier ist ein Werkzeug – entstanden aus Frustration, Recherche und der Frage:\
+Dieses Dossier ist ein Werkzeug – entstanden aus Frustration, Recherche und der Frage:
 **Was genau blockiert gesellschaftlichen Wandel – und wie kann man es sichtbar machen?**
 
-## 🎯 Was dieses Dossier bietet
+## 🎯 Methodik
 
 „Die Schlinge“ arbeitet mit dokumentierter Realität und verdichteter Darstellung – aber ohne Skandalton, Schuldzuweisung oder moralische Überhöhung.
+Es ist systemisch statt skandalös, analysierend statt appellierend, modular statt chronologisch.
 
-Es ist:
-
-- systemisch statt skandalös
-- analysierend statt appellierend
-- modular statt chronologisch
-
-Die Kapitel sind **eigenständig lesbar** und folgen einer **diagnostischen Logik**:\
+Die Kapitel sind **eigenständig lesbar** und folgen einer **diagnostischen Logik**:
 Erst das Muster, dann die Ebenen, dann die Hebel.
 
-## 👥 Für wen es geschrieben ist
+## 🔍 Quellenstandards
 
-Für Menschen, die …
-
-- **gegen Windmühlen arbeiten** – in Bildung, Medien, Recht, Verwaltung, Aktivismus
-- **mehr als nur informiert sein wollen** – sondern wirksam
-- sich **nicht beruhigen lassen**, sondern Strukturen verstehen wollen
-
-Du brauchst keine Fachvorkenntnisse –\
-aber die Bereitschaft, Muster zu erkennen, auch wenn sie unbequem sind.
-
-## 🧭 Wie man dieses Dossier lesen kann
-
-- **Modular**: Du musst nicht vorne beginnen – einsteigen ist überall möglich
-- **Quellenbasiert**: Alle Aussagen sind öffentlich überprüfbar
-- **Mit Haltung**: Die Sprache ist klar, konfrontativ – nicht neutral, aber begründet
-
-> _„Dies ist kein Dokument. Es ist ein Schnitt.“_\
-> Ein Schnitt durch Jahrzehnte der Beruhigung, Ablenkung und Symbolpolitik.
-
-## 🚫 Was du nicht bekommst
-
-- Keine Schuldzuweisung an Einzelne
-- Kein Appell an individuelle Moral
-- Kein Versuch, zu beruhigen
-
-> _Nicht die Fakten fehlen – sondern die Struktur, die ihnen Wirkung verleiht._
-
-## 🔍 Methodik & Quellenstandards
-
-Die Inhalte dieses Dossiers basieren auf **öffentlich zugänglichen, überprüfbaren Quellen** – aus:
-
-- Wissenschaft
-- Journalismus
-- Recht
-- Zivilgesellschaft
+Die Inhalte dieses Dossiers basieren auf **öffentlich zugänglichen, überprüfbaren Quellen** – aus Wissenschaft, Journalismus, Recht und Zivilgesellschaft.
 
 **Grundsätze der Quellenarbeit:**
 
-- **Mindestens zwei unabhängige Quellen** für zentrale Aussagen
-- **Bevorzugung von Primärdokumenten**
-- **Direktverlinkung** (DOI, URL, Fußnoten)
-- **Keine unbelegten Einzelbehauptungen**
-- **Klare Trennung** zwischen dokumentarischen und szenisch-fiktionalen Elementen
+- mindestens zwei unabhängige Quellen für zentrale Aussagen
+- Bevorzugung von Primärdokumenten
+- Direktverlinkung (DOI, URL, Fußnoten)
+- Keine unbelegten Einzelbehauptungen
+- Klare Trennung zwischen dokumentarischen und szenisch-fiktionalen Elementen
 
 ## 🎭 Rolle der Fiktion
 

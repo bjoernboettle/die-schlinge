@@ -7,7 +7,7 @@ description: >
 
 # 6.3 Think Tanks – Die Industrie des Zweifels
 
-Dieses Kapitel zeigt, wie industrienahe Denkfabriken gezielt Zweifel streuen – nicht durch Forschung, sondern durch strategische Kommunikation. Das Ziel: Vertrauen untergraben, Diskussionen verschieben, politisches Handeln verzögern.
+Dieses Kapitel zeigt, wie industrienahe Denkfabriken gezielt Zweifel streuen – nicht durch Forschung, sondern durch strategische Kommunikation. Das Ziel: Vertrauen untergraben, Diskussionen verschieben, politisches Handeln verzögern – oft in Form zugespitzter Falschmeldungen („Fake News“), die als Teil strategischer Desinformation wirken.
 
 ## 🧭 Wie „Fragen stellen“ zur Waffe wurde
 
@@ -15,11 +15,19 @@ In diesem Kapitel geht es um eine subtile Form der Klimawandelleugnung – nicht
 
 Im Zentrum stehen industrienahe Think Tanks, die keine unabhängige Forschung betreiben, sondern **Narrative produzieren**: Erzählungen, die nicht aufklären, sondern Zweifel säen.
 
+> **Begriffsklärung: „Fake News“ vs. Desinformation**
+>
+> „Fake News“ ist ein alltagssprachlicher Sammelbegriff für einzelne Falschmeldungen.
+> Desinformation meint gezielt geplante und vernetzte Strategien (Akteure, Bots, Think Tanks, Medienformate).
+> Dieses Kapitel nutzt „Desinformation“ analytisch – bindet „Fake News“ als sichtbares Oberflächen-Phänomen ein.
+
 Sie liefern keine Gegenargumente, sondern stellen Fragen – Fragen, die nicht der Erkenntnis dienen, sondern der Verwirrung. So wird:
 
 - Vertrauen in die Wissenschaft untergraben,
 - der öffentliche Diskurs verschoben,
 - klimapolitisches Handeln gezielt verzögert.
+
+Solche Fragen werden in Kurzformaten (Clips, Sharepics, Memes) zu klickstarken „Fake-News“-Schnipseln – anschlussfähig, aber irreführend.
 
 ## 🎭 Szenische Verdichtung & Faktischer Hintergrund
 
@@ -47,7 +55,7 @@ Diese Szene verdichtet dokumentierte Strategien aus internen Papieren industrien
 
 #### Faktischer Hintergrund
 
-- Im Jahr 2012 wurden interne Dokumente des **Heartland Institute** geleakt, darunter ein Strategiepapier mit dem ausdrücklichen Ziel, Zweifel an der Klimawissenschaft zu säen – ohne neue Forschung [^thinktanks1] und [^thinktanks16].
+- Im Jahr 2012 wurden interne Dokumente des **Heartland Institute** geleakt, darunter ein Strategiepapier mit dem ausdrücklichen Ziel, Zweifel an der Klimawissenschaft zu säen – ohne neue Forschung. [^thinktanks1][^thinktanks16].
 - Kampagnen arbeiteten mit Suggestivfragen, nicht mit Evidenz – z. B. **„They call it pollution. We call it life.“** [^thinktanks17].
 
 ### 📚 Szene B: Zweifel als Werkzeug _(verdichtete Darstellung)_
@@ -82,7 +90,7 @@ Die Szene zeigt: Zweifel wird nicht geglaubt – sondern funktional eingesetzt. 
 > nicht zur Aufklärung, sondern zur gezielten Verunsicherung.\
 > Die entsprechenden Quellen und Analysen findest du im Anschluss des Kapitels.
 
-## 📚 Realität – Desinformation als strategischer Zweifel
+## 📚 Realität – Desinformation und „Fake News“ als strategischer Zweifel
 
 ### Theoretischer Rahmen
 
@@ -105,7 +113,7 @@ nicht durch Forschung, sondern durch öffentlichkeitswirksame Kommunikation [^th
 Studien belegen:\
 Wo Industriegelder fließen, entstehen oft Netzwerke ideologisch motivierter Klimaskepsis.\
 Beispielhafte Akteure in den USA sind CEI, Heartland oder IER [^thinktanks7].\
-Der **Competitive Enterprise Institute** warb 2006 mit dem Slogan: _„Carbon dioxide: They call it pollution. We call it life.“_ – eine rhetorische Strategie, um CO₂ als natürlich und harmlos zu rahmen.[^thinktanks17]
+Das **Competitive Enterprise Institute** warb 2006 mit dem Slogan: _„Carbon dioxide: They call it pollution. We call it life.“_ – eine rhetorische Strategie, um CO₂ als natürlich und harmlos zu rahmen.[^thinktanks17]
 
 Diese Narrative wirken nicht nur im Diskurs – sondern auch juristisch:\
 **In Verfahren wie ISDS-Klagen wird Klimapolitik gezielt als Marktverzerrung gerahmt.**\
@@ -137,7 +145,7 @@ Es geht nicht um Wissenschaft. Es geht um Deutungshoheit.
 | Global Warming Policy Foundation | Großbritannien | **£0,39 Mio** [^thinktanks15] | Hoch                   | konservativ                      | Hoch (v. a. angloamerikan.)       |
 | EIKE                             | Deutschland    | **< €200.000** [^thinktanks9] | Mittel                 | rechtskonservativ                | Hoch (u. a. Heartland, CFACT)     |
 
-> _Hinweis: Die Einschätzungen basieren auf Finanzdaten, NGO-Analysen (z. B. DeSmog, Correctiv) und wissenschaftlicher Literatur zu Desinformationsnetzwerken [^thinktanks7] und [^thinktanks9]._
+> _Hinweis: Die Einschätzungen basieren auf Finanzdaten, NGO-Analysen (z. B. DeSmog, Correctiv) und wissenschaftlicher Literatur zu Desinformationsnetzwerken._[^thinktanks7][^thinktanks9]
 
 ## 🧩 Strategische Muster – in sechs Sätzen
 
@@ -145,7 +153,7 @@ Es geht nicht um Wissenschaft. Es geht um Deutungshoheit.
 
 1. **Reframing**: Durch sprachliche Verschiebung (z. B. „CO₂ = Leben“) wird aus wissenschaftlicher Evidenz ein vermeintliches Deutungsthema.
 
-2. **Fragendes Zweifelstreuen**: Keine Gegenargumente, sondern suggestive Fragen erzeugen Unsicherheit – ohne neue Informationen.
+2. **Fragendes Zweifelstreuen**: Keine Gegenargumente, sondern suggestive Fragen erzeugen Unsicherheit – in viralen Kurzformaten oft als „Fake-News“-Fragmente sichtbar, ohne neue Informationen.
 
 3. **Ideologische Polarisierung**: Klimaschutz wird als Freiheitsbedrohung inszeniert – zur politischen Mobilisierung in konservativen Milieus.
 
@@ -161,7 +169,7 @@ Es geht nicht um Wissenschaft. Es geht um Deutungshoheit.
 
 2015 machten Journalist:innen interne Exxon-Dokumente öffentlich.\
 Sie zeigen: Das Unternehmen rechnete intern mit präzisen Klimamodellen –\
-und streute gleichzeitig öffentlich Zweifel an der Klimawissenschaft [^thinktanks18] und [^thinktanks19].
+und streute gleichzeitig öffentlich Zweifel an der Klimawissenschaft. [^thinktanks18] [^thinktanks19]
 
 ### Kritik oder Desinformation?
 
@@ -201,13 +209,9 @@ Think Tanks, die sich nicht an wissenschaftliche Standards halten, aber wissensc
 Was passiert, wenn Zweifel zur politischen Währung wird?
 
 - In **Indien** wird Klimapolitik als koloniale Kontrolle umgedeutet [^thinktanks3].
-- In **Südafrika** dient das Narrativ vom „neokolonialen Projekt“ dazu,\
-  globale Ziele als lokale Bedrohung zu framen – obwohl Studien zeigen,\
-  dass diese Gegensätze oft konstruiert sind [^thinktanks11].
+- In **Südafrika** dient das Narrativ vom „neokolonialen Projekt“ dazu, globale Ziele als lokale Bedrohung zu framen – obwohl Studien zeigen, dass diese Gegensätze oft konstruiert sind [^thinktanks11].
 
-Think Tanks liefern hier nicht Fakten – sondern **ein Vokabular**.\
-Ein rhetorisches Werkzeug, das lokal angepasst und politisch genutzt wird.\
-Nicht zur Aufklärung, sondern zur Legitimation.
+Think Tanks liefern hier nicht Fakten – sondern **ein Vokabular**. Ein rhetorisches Werkzeug, das lokal angepasst und politisch genutzt wird. Nicht zur Aufklärung, sondern zur Legitimation.
 
 **Der Zweifel wird nicht immer geglaubt – aber häufig rhetorisch genutzt.**
 
@@ -215,12 +219,10 @@ Nicht zur Aufklärung, sondern zur Legitimation.
 
 Diese Think Tanks leisten keinen Beitrag zur wissenschaftlichen Erkenntnisproduktion – sie agieren primär als Deutungsakteure im politischen Diskurs
 
-**Ihre zentrale Ressource ist Diskursmacht**: die Fähigkeit, Begriffe, Rahmen und Perspektiven so zu setzen,\
-dass politisches Handeln verzögert oder delegitimiert wird.
+**Ihre zentrale Ressource ist Diskursmacht**: die Fähigkeit, Begriffe, Rahmen und Perspektiven so zu setzen, dass politisches Handeln verzögert oder delegitimiert wird.
 
 Sie streuen Zweifel – **strategisch, wiederholt, oft ohne empirische Basis**.\
-Und sie liefern Narrative, die global anschlussfähig sind –\
-gerade weil sie offen für Umdeutung sind.
+Und sie liefern Narrative, die global anschlussfähig sind – gerade weil sie offen für Umdeutung sind.
 
 **Daran zeigt sich: Zweifel kann – strategisch eingesetzt – als Machtinstrument wirken.**
 
@@ -228,17 +230,17 @@ gerade weil sie offen für Umdeutung sind.
 
 ## 🧠 Meta-Analyse
 
-| **Aspekt**                             | **Inhalt des Kapitels**                                                                                                                      |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Zentrales Motiv**                    | Strategisch gestreute Zweifel und Narrative zur Verzögerung klimapolitischer Maßnahmen durch industrienahe Think Tanks.                      |
-| **Typischer Akteur**                   | Industrienahe Denkfabriken (z. B. _Heartland_, _CEI_, _IER_, _GWPF_, _EIKE_).                                                                |
-| **Strategieform**                      | Reframing, Kontextualisierung, selektive Informationsverbreitung, rhetorische Verunsicherung ohne eigene Forschung.                          |
-| **Mechanik der Wirkung**               | Verbreitung von Zweifeln und Gegen-Narrativen über Medien, Kampagnen und Netzwerke ohne wissenschaftliche Evidenzbasis.                      |
-| **Regionale Verankerung**              | USA, Großbritannien, Deutschland; globale Wirkung über exportierte Argumentationsmuster.                                                     |
-| **Export von Strategien in den Süden** | Übernahme und strategische Aneignung westlicher Zweifel-Narrative zur Legitimierung eigener Interessen (z. B. Indien, Brasilien, Südafrika). |
-| **Riss im Muster**                     | Offenlegung interner Dokumente (z. B. Exxon-Leaks), wissenschaftliche Gegenanalysen, journalistische Recherchen.                             |
-| **Zentrale Quelle(n)**                 | Heartland-Leaks, Exxon-Dokumente, Studien zu Indien, Brasilien und Südafrika, NGO-Reports.                                                   |
-| **Art der Quellenbasis**               | Medienberichte, NGO-Analysen, wissenschaftliche Studien, interne Strategiepapiere.                                                           |
+| **Aspekt**                             | **Inhalt des Kapitels**                                                                                                                                  |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Zentrales Motiv**                    | Strategisch gestreute Zweifel und Narrative zur Verzögerung klimapolitischer Maßnahmen durch industrienahe Think Tanks.                                  |
+| **Typischer Akteur**                   | Industrienahe Denkfabriken (z. B. _Heartland_, _CEI_, _IER_, _GWPF_, _EIKE_).                                                                            |
+| **Strategieform**                      | Reframing, Kontextualisierung, selektive Informationsverbreitung, rhetorische Verunsicherung (Desinformation/„Fake News“-Formate) ohne eigene Forschung. |
+| **Mechanik der Wirkung**               | Verbreitung von Zweifeln und Gegen-Narrativen über Medien, Kampagnen und Netzwerke ohne wissenschaftliche Evidenzbasis.                                  |
+| **Regionale Verankerung**              | USA, Großbritannien, Deutschland; globale Wirkung über exportierte Argumentationsmuster.                                                                 |
+| **Export von Strategien in den Süden** | Übernahme und strategische Aneignung westlicher Zweifel-Narrative zur Legitimierung eigener Interessen (z. B. Indien, Brasilien, Südafrika).             |
+| **Riss im Muster**                     | Offenlegung interner Dokumente (z. B. Exxon-Leaks), wissenschaftliche Gegenanalysen, journalistische Recherchen.                                         |
+| **Zentrale Quelle(n)**                 | Heartland-Leaks, Exxon-Dokumente, Studien zu Indien, Brasilien und Südafrika, NGO-Reports.                                                               |
+| **Art der Quellenbasis**               | Medienberichte, NGO-Analysen, wissenschaftliche Studien, interne Strategiepapiere.                                                                       |
 
 ## 🧾 Quellenbasis
 

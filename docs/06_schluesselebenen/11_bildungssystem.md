@@ -135,7 +135,7 @@ Eine Studie von Trott (2024) zeigt: Bewegungen wie Fridays for Future fördern a
 - kritisches Denken
 - gemeinschaftliches Handeln[^bildung10]
 
-> _Hinweis: Dieses Kapitel fokussiert primär auf schulische und hochschulische Bildungskontexte. Bereiche wie frühkindliche Bildung und berufliche Ausbildung sind nicht explizit behandelt – obwohl sie eine zentrale Rolle für Klimakompetenz und gesellschaftliche Transformation spielen. Weiterführende Analysen dazu finden sich etwa bei der Bertelsmann Stiftung zur frühkindlichen Bildung[^bildung13] sowie beim BIBB zur Berufsbildung für nachhaltige Entwicklung[^bildung14]._
+> **Hinweis:** Dieses Kapitel fokussiert primär schulische und hochschulische Kontexte. **Frühkindliche Bildung** spielt jedoch eine Schlüsselrolle für Klimakompetenz und Wertebildung. Ein Beispiel „vor der Haustür“: **„Kleine Forscher“ (BNE) am KIT-Partnernetzwerk** – gefördert u. a. vom BMBF; Partner u. a. Helmholtz-Gemeinschaft, Siemens-Stiftung, Dietmar-Hopp-Stiftung, Deutsche-Telekom-Stiftung (Stand: 2019). Solche Programme zeigen, wie **frühe Erfahrungen** („Freunde der Erde“) nachhaltige Perspektiven eröffnen und **Eltern/Großeltern** über Beteiligung und Vorbild **mitziehen**.[^bildung15][^bildung16]
 
 ## ⚡ Wenn Bildung in Bewegung kommt
 
@@ -190,7 +190,7 @@ Ein solcher Zugang stärkt:
 - Selbstwirksamkeit
 - gesellschaftliche Verantwortung
 
-Neben CO₂-Rechnungen geht es um eine zentrale Frage: Was hat das mit mir zu tun – und was kann ich tun?\
+Neben CO₂-Rechnungen geht es um eine zentrale Frage:\
 **Was hat das mit mir zu tun – und was kann ich tun?**
 
 Narrative spielen dabei eine Schlüsselrolle. Der Bildungsforscher Jerome Bruner (1991) betont:\
