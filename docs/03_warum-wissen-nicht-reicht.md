@@ -30,12 +30,12 @@ Was uns bremst, ist kein Mangel an Fakten – sondern ein Zusammenspiel aus:
 > 📌 **Kontext**:\
 > Die Aussage „Verzögerung ist System“ wird hier konkretisiert – durch ein strukturiertes Zusammenspiel aus Akteuren, Mechanismen und Verzögerungsmustern, das nicht zufällig wirkt, sondern systemisch.
 
-| 🧠 **Wissen ist da**                 | 🕸️ **Aber das System…**                                        | 🪤 **…führt zu**                   | ⏳ **Und das Ergebnis ist**         |
-| ------------------------------------ | -------------------------------------------------------------- | ---------------------------------- | ----------------------------------- |
-| ✅ Klimadaten sind eindeutig         | 🔄 Verantwortung wird verteilt oder verschleiert               | 😶 Gefühl von Ohnmacht             | 🧨 Handlung bleibt aus              |
-| ✅ Forschung ist sich einig          | 🗞️ Medien inszenieren Debatten trotz Konsens („False Balance“) | 🎯 Aufmerksamkeit wird abgelenkt   | ⏳ Zeit vergeht – ohne Wirkung      |
-| ✅ Lösungen sind bekannt             | 🧑‍💼 Politik setzt auf Symbolik statt Struktur                   | 🙍 Schuld wird individualisiert    | 🔁 Der Status quo stabilisiert sich |
-| ✅ Szenarien warnen seit Jahrzehnten | 🏭 Industrie verzögert gezielt (PR, Lobby, Legalismus)         | 🥱 Müdigkeit, Rückzug, Resignation | 🚨 Kipppunkte rücken näher          |
+| 🧠 **Wissen ist da**                 | 🕸️ **Aber das System…**                          | 🪤 **…führt zu**                   | ⏳ **Und das Ergebnis ist**         |
+| ------------------------------------ | ------------------------------------------------ | ---------------------------------- | ----------------------------------- |
+| ✅ Klimadaten sind eindeutig         | 🔄 Verantwortung wird verteilt oder verschleiert | 😶 Gefühl von Ohnmacht             | 🧨 Handlung bleibt aus              |
+| ✅ Forschung ist sich einig          | 🗞️ Medien inszenieren Debatten                   | 🎯 Aufmerksamkeit wird abgelenkt   | ⏳ Zeit vergeht – ohne Wirkung      |
+| ✅ Lösungen sind bekannt             | 🧑‍💼 Politik setzt auf Symbolik statt Struktur     | 🙍 Schuld wird individualisiert    | 🔁 Der Status quo stabilisiert sich |
+| ✅ Szenarien warnen seit Jahrzehnten | 🏭 Industrie verzögert gezielt (PR, Lobby etc.)  | 🥱 Müdigkeit, Rückzug, Resignation | 🚨 Kipppunkte rücken näher          |
 
 ## 📌 Was daraus folgt
 

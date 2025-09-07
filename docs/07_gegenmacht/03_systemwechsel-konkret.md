@@ -172,12 +172,25 @@ Aber ihre Durchsetzung beginnt oft ganz woanders.
 
 ## 🧰 Handlungsmatrix für Alltag und Akteure
 
-| **Wirkfel**          | **Was kann ich konkret tun?**                                               |
+| **Wirkfeld**         | **Was kann ich konkret tun?**                                               |
 | -------------------- | --------------------------------------------------------------------------- |
 | **Kommune**          | Bürgerrat anstoßen, Klimavorbehalt in Bauleitlinien fordern                 |
 | **NGO / Bündnis**    | Koalition für ein CO₂-gebundenes Fördergesetz gründen                       |
 | **Bildung / Schule** | „Zukunftsgericht“ simulieren, Klimaverfassungen debattieren                 |
 | **Medien / Kultur**  | Investorenschutz visualisieren, Rückbau dokumentieren, Machtfragen erzählen |
+
+### 📦 Best Practice: Lernen von bestehenden Projekten
+
+Systemwechsel muss nicht bei null beginnen.
+Es gibt bereits zahlreiche erprobte Ansätze, die sich als **Best Practices** eignen – lokal wie international.
+
+- **Frühkindliche Bildung:** Programme wie _Haus der kleinen Forscher_ (KIT, gefördert vom BMBF und Stiftungen) zeigen, wie Nachhaltigkeit spielerisch vermittelt werden kann.
+- **Kommunale Transformation:** Städte wie Kopenhagen oder Freiburg erproben seit Jahren Bürger:innenräte und CO₂-Budgets.
+- **NGO-Kooperationen:** Bündnisse wie _Beyond Oil & Gas Alliance_ verbinden Staaten und Zivilgesellschaft für ein gemeinsames Ausstiegsnarrativ.
+- **Kulturelle Initiativen:** Theaterstücke, Festivals oder Dokumentarfilme machen abstrakte Strukturen erfahrbar und anschlussfähig.
+
+> 📌 **Über den Tellerrand schauen heißt:** bestehende Lösungen adaptieren, statt jedes Rad neu zu erfinden.
+> Best Practice beschleunigt Wandel – und macht Mut, dass Transformation möglich ist.
 
 ## 🧩 Struktur statt Einsicht
 

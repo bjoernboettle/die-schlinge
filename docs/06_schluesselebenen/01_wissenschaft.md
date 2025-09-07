@@ -53,6 +53,12 @@ Diese Szene verbindet zwei dokumentierte Momente wissenschaftlicher Klarheit: di
 **Nicht das Wissen fehlte – sondern die Reaktion darauf.**\
 Die Szene verdichtet diesen strukturellen Stillstand: _Ein planetarer Alarm wurde registriert – aber nicht gehört_.
 
+**Wie wurde das damals kommuniziert (1958–1979)?**
+
+- **Wissenschaft → Politik**: Keelings Daten und der Charney-Report liefen primär über Fachjournale, Akademieberichte und Beratergremien. Es gab **prägnante Kernaussagen** (z. B. Bandbreite der Klimasensitivität) und **einprägsame Visuals** (Keeling-Kurve). Doch die Verbreitung blieb institutionell, die Sprache häufig technisch.
+- **Wissenschaft → Öffentlichkeit**: Einzelne Medienberichte griffen die Befunde auf, aber **ohne durchgehende Übersetzung** in alltagsnahe Begriffe.
+- **Fazit**: Klarheit in der Sache – aber **keine gemeinsame Sprache** zwischen Labor, Parlament und Publikum. Erst später etablierten sich Ankerbegriffe (z. B. „1,5 °C“, „CO₂-Budget“, „Kipppunkte“) als breitenwirksame Kurzformeln.
+
 #### Faktischer Hintergrund
 
 - **Charles David Keeling** begann 1958 mit systematischen CO₂-Messungen am Mauna Loa Observatorium. Die sog. **Keeling-Kurve** dokumentiert seither kontinuierlich steigende Konzentrationen [^wissenschaft2].
@@ -139,6 +145,10 @@ So entstand ein wiederkehrendes Muster:\
 Je klarer die Evidenz, desto größer die Blockade.\
 Denn mit der Klarheit wuchs auch der Handlungsdruck – und damit die politische Zumutung.
 
+Hinzu kam ein Wahrnehmungsproblem: Für Politik und Öffentlichkeit waren die Warnungen der 1960er- bis 1980er-Jahre oft **„nur Theorien“** – abstrakte Modelle, deren Folgen im Alltag noch nicht spürbar waren. Dadurch fehlte der Glaube an ihre Dringlichkeit.\
+Dieses Muster wirkt bis heute nach: Viele Menschen verwechseln **Wetter** mit **Klima** – und leiten aus einem kühlen Sommermonat oder viel Regen ab, dass die Krise „nicht so schlimm“ sei.\
+So entsteht eine doppelte Blockade: wissenschaftliche Evidenz bleibt politisch unbequem – und zugleich gesellschaftlich fragil, wenn sie nicht unmittelbar erfahrbar ist.
+
 > _Der Bruch lag nicht in den wissenschaftlichen Modellen – sondern in ihrer politischen Anschlussfähigkeit._
 
 ## 📊 Systemische Bewertungsmatrix – Warum Wissen oft nicht wirkt
@@ -147,33 +157,28 @@ Die Wissenschaft lieferte früh präzise Warnungen. Doch ihre Wirkung blieb begr
 
 Die folgende Matrix zeigt typische Formen wissenschaftlicher Marginalisierung im Kontext der Klimakrise – und bewertet sie anhand zentraler Kriterien:
 
-| **Verzögerungsmechanismus**         | **Systemischer Schweregrad (1–5)** | **Primäre Akteure**               | **Korrekturpotenzial** | **Typisches Beispiel**                                         |
-| ----------------------------------- | ---------------------------------- | --------------------------------- | ---------------------- | -------------------------------------------------------------- |
-| **Informationszurückhaltung**       | 5                                  | Fossilindustrie, Think Tanks      | niedrig                | Exxons internes Klimamodell (1982) [^wissenschaft5]            |
-| **Politische Selektivwahrnehmung**  | 4                                  | Regierungen, Beratergremien       | mittel                 | Ignorieren des Charney-Reports (1979) [^wissenschaft3]         |
-| **Entkoppelung von Wissen & Macht** | 4                                  | IPCC, wissenschaftliche Panels    | gering                 | Fehlende Implementierung trotz IPCC-Berichte seit 1990         |
-| **Institutionelle Trägheit**        | 3                                  | Verwaltung, Ressorts, Parlamente  | mittel                 | Nicht-Umsetzung von Empfehlungen z. B. aus nationalen Beiräten |
-| **Diskursive Marginalisierung**     | 3                                  | Medien, politische Öffentlichkeit | hoch                   | Geringe Sichtbarkeit von Warnungen aus dem Globalen Süden      |
+**Zur Orientierung:**
 
-> 📌 **Anmerkung**: Der „systemische Schweregrad“ bewertet, wie stark ein Mechanismus strukturell verankert und schwer veränderbar ist. „Korrekturpotenzial“ zeigt, ob und wie dieser Mechanismus über Reform, Öffentlichkeit oder Recht korrigierbar ist.
+- **Systemischer Schweregrad (1–5):** Einschätzung, wie tief ein Mechanismus strukturell verankert ist und wie schwer er sich verändern lässt.
+  1 = leicht veränderbar, 5 = besonders stabil und schwer zu durchbrechen.
+- **Korrekturpotenzial:** Einschätzung, welche Chancen es gibt, den Mechanismus zu überwinden (z. B. durch Reformen, Öffentlichkeit, Rechtsprechung).
+  niedrig = kaum korrigierbar, hoch = gut korrigierbar.
+
+Diese Skalen sind **heuristische Bewertungen** innerhalb des Dossiers – keine „offiziellen Maße“. Sie sollen einordnen, **wo Blockaden besonders tief sitzen** und wo **Ansatzpunkte für Veränderung** bestehen.
+
+| **Verzögerungsmechanismus**         | **Systemischer Schweregrad** | **Primäre Akteure**               | **Korrekturpotenzial** | **Typisches Beispiel**                                         |
+| ----------------------------------- | ---------------------------- | --------------------------------- | ---------------------- | -------------------------------------------------------------- |
+| **Informationszurückhaltung**       | 5                            | Fossilindustrie, Think Tanks      | niedrig                | Exxons internes Klimamodell (1982) [^wissenschaft5]            |
+| **Politische Selektivwahrnehmung**  | 4                            | Regierungen, Beratergremien       | mittel                 | Ignorieren des Charney-Reports (1979) [^wissenschaft3]         |
+| **Entkoppelung von Wissen & Macht** | 4                            | IPCC, wissenschaftliche Panels    | gering                 | Fehlende Implementierung trotz IPCC-Berichte seit 1990         |
+| **Institutionelle Trägheit**        | 3                            | Verwaltung, Ressorts, Parlamente  | mittel                 | Nicht-Umsetzung von Empfehlungen z. B. aus nationalen Beiräten |
+| **Diskursive Marginalisierung**     | 3                            | Medien, politische Öffentlichkeit | hoch                   | Geringe Sichtbarkeit von Warnungen aus dem Globalen Süden      |
 
 Diese systematische Betrachtung zeigt: **Verzögerung ist nicht nur Taktik – sondern strukturelle Folge von Machtverhältnissen, Interessenprioritäten und institutionellen Logiken.**
 
 Wissenschaft kann warnen – aber ob gehandelt wird, hängt nicht allein von der Datenlage ab, sondern von ihrer **Anschlussfähigkeit an Macht, Medien und Mobilisierung**.
 
 > **Verstehen ist Voraussetzung – aber nicht Garantie – für Wandel.**
-
-## 📆 Daten im Überblick – Frühwarnungen im Zeitverlauf
-
-| Jahr | Erkenntnis / Ereignis                              | Quelle            |
-| ---- | -------------------------------------------------- | ----------------- |
-| 1957 | Revelle & Suess: CO₂ bleibt in Atmosphäre          | [^wissenschaft1]  |
-| 1958 | Start der Keeling-Kurve auf Mauna Loa              | [^wissenschaft2]  |
-| 1965 | Johnson-Bericht warnt vor Klimafolgen durch CO₂    | [^wissenschaft13] |
-| 1979 | Charney-Report prognostiziert 1,5–4,5 °C Erwärmung | [^wissenschaft3]  |
-| 1982 | Exxon entwickelt internes Klimamodell              | [^wissenschaft5]  |
-| 1988 | Gründung des IPCC                                  | [^wissenschaft6]  |
-| 1991 | SPREP warnt vor Meeresspiegelanstieg im Pazifik    | [^wissenschaft11] |
 
 ## ⚡ Ein Riss im Muster
 
@@ -201,7 +206,7 @@ Ein echter Perspektivwechsel beginnt dort, wo wissenschaftliche Erkenntnis nicht
 
 ## ✅ Fazit
 
-Die Klimakrise wurde nicht übersehen – sie wurde verdrängt.
+Die Klimakrise wurde nicht übersehen – sie wurde verdrängt. Und dort, wo sie verstanden wurde, fehlte oft die **gemeinsame Sprache** zwischen Forschung, Politik und Öffentlichkeit.
 
 - Die Daten waren vorhanden.
 - Die Prognosen präzise.

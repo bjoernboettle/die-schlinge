@@ -6,43 +6,35 @@ title: Kapitel 0 – Executive Summary
 
 <div class="executive-summary">
 
-## 🪢 Warum Wissen nicht reicht – und wie systemische Verzögerung Wandel blockiert
+## 🪢 Warum Wissen nicht reicht
 
-Seit Jahrzehnten sind die Fakten zur Klimakrise bekannt.\
-Die Datenlage ist eindeutig, die Prognosen präzise, die Lösungen verfügbar – und doch bleibt der nötige Wandel aus.
+Die Fakten zur Klimakrise sind seit Jahrzehnten bekannt – dennoch bleibt der Wandel aus. **Dieses Dossier fragt nicht nach dem _Ob_, sondern nach dem _Warum_ der Blockade.**
 
-**Dieses Dossier untersucht nicht das _Ob_, sondern das _Warum_ dieser Blockade.**
+> Die Klimakrise ist kein Wissensproblem – sondern ein Systemproblem.
+> Verzögerung ist keine Panne – sondern Architektur.
 
-> _Die Klimakrise ist kein Wissensproblem – sondern ein Systemproblem._\
-> _Verzögerung ist keine Panne – sondern Architektur._
+## 🕸️ Was „Die Schlinge“ zeigt
 
-## 🕸️ Was ist _Die Schlinge_?
+„Die Schlinge“ macht sichtbar, wie institutionelle Trägheit, strategische Desinformation, Medienlogik und kulturelle Routinen Wirkung neutralisieren – nicht durch Verschwörung, sondern durch **Verflechtung**.
 
-„Die Schlinge“ ist ein dokumentarisch-analytisches Werkzeug:\
-kein Appell, kein Bericht, keine Meinung.\
-Es macht sichtbar, wie institutionelle Trägheit, strategische Desinformation, Medienlogik und kulturelle Routinen den Wandel bremsen – nicht durch Verschwörung, sondern durch **Verflechtung**.
+- **Systemmuster:** Warum Wissen wirkungslos wird
+- **Schlüsselebenen:** Wo die Blockade greift (Wissenschaft, Medien, Politik, Recht)
+- **Hebel & Werkzeuge:** Wie man Bruchstellen nutzt
+- **Szenen & Beispiele:** Verdichtete Realität, quellenbasiert
 
-## 👥 Für wen ist es gedacht?
+## 🎯 Wofür das nützt
 
-Für Menschen, die an einem Punkt angekommen sind, an dem Fakten nicht mehr reichen:
+Für alle, die nicht nur informiert sein wollen, sondern **wirksam**: Journalist:innen, Lehr- und Verwaltungskräfte, Aktivist:innen, Jurist:innen, Entscheider:innen.
 
-- Journalist:innen, Lehrkräfte, Aktivist:innen, Jurist:innen
-- alle, die sich fragen:
-  _„Warum passiert so wenig – obwohl wir längst alles wissen?“_
+**Lesetipps zum Start:**
 
-## 🎯 Was bietet es?
-
-- **Systemmuster** – wie Wissen wirkungslos wird
-- **Schlüsselebenen** – wo die Blockade wirkt (von Wissenschaft bis Recht)
-- **Werkzeuge** – was hilft gegen strukturelle Ohnmacht
-- **Szenen & Beispiele** – real verdichtet, nicht fiktiv
+- **Kapitel 3:** _Warum Wissen nicht reicht_ – das Grundmuster
+- **Kapitel 7.3:** _Systemwechsel konkret_ – neun Hebel auf drei Ebenen
+- **Kapitel 8:** _Gegenmacht & Werkzeugkasten_ – wie Druck entsteht
 
 ## 🌱 Ziel
 
-Nicht beruhigen. Nicht beschuldigen.\
-Sondern zeigen, **wo Veränderung möglich ist – wenn wir systemisch handeln.**
-
----
+Nicht beruhigen, nicht beschuldigen – sondern zeigen, **wo Veränderung möglich ist, wenn wir systemisch handeln.**
 
 > _„Die Schlinge zieht sich nicht plötzlich zu. Sie wirkt, weil niemand sie unterbricht.“_
 

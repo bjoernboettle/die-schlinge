@@ -22,7 +22,7 @@ Die zentrale Erkenntnis: Diese Verzögerung war kein Versehen. Sie war Strategie
 ### 📚 Szene A: Verzögern heißt gewinnen _(verdichtete Darstellung)_
 
 **Houston, späte 1980er.**\
-Ein Konferenzraum im 42. Stock. Der junge Analyst zeigt auf eine Grafik:\
+Vorstandsetage, Konferenzraum. **Ein interner Analyst** präsentiert Folien mit **Klimaprojektionen aus der eigenen Forschung**:\
 „Wenn das so weitergeht, erreichen wir zwei Grad bis 2050.“
 
 Der CEO schweigt, blickt auf die Uhr, dann zum Projektor. Schließlich sagt er:\
@@ -35,15 +35,15 @@ Ein älterer Kollege grinst: „Wer die Begriffe kontrolliert, kontrolliert das 
 Der CEO nickt: „Vermerken. Nicht kommunizieren.“\
 Eiswürfel klirren. Niemand lacht.
 
-**Zehn Jahre später.**\
+**Zehn Jahre später – externe Kommunikation.**\
 Ein Hotelfoyer, Frühstücksbuffet. Ein Imagefilm läuft: Kinder lachen, Blätter im Wind. Off-Stimme:\
 „Energie mit Verantwortung.“
 
 Der PR-Berater flüstert: „Das Kind ist aus einer Stockdatenbank.“\
 Ein Journalist fragt: „Produzieren Sie die Solaranlage wirklich?“\
-Antwort: „Das ist die Vision.“
+PR-Berater: „Das ist die Vision – wir **prüfen Optionen**.“
 
-Kurze Stille. Dann trocken: „Visionen verkaufen besser als Öl.“
+Kurze Stille. Dann trocken: „Visionen verkaufen sich besser.“
 
 #### Einordnung
 
@@ -147,6 +147,11 @@ Beispiele:
 
 Die folgende Matrix systematisiert typische Verzögerungsstrategien fossiler Akteure – basierend auf dokumentierten Beispielen aus Exxon, Shell, API, BP & Co.
 
+Sie nutzt zwei Bewertungskriterien:
+
+- **Systemischer Schweregrad (1–5):** Wie tief ist eine Strategie strukturell/institutionell verankert? 1 = leicht veränderbar, 5 = besonders stabil.
+- **Korrekturpotenzial:** Wie gut lässt sich eine Strategie gesellschaftlich, politisch oder juristisch aufbrechen? niedrig = kaum korrigierbar, hoch = vergleichsweise gut korrigierbar.
+
 | **Verzögerungsstrategie**             | **Systemischer Schweregrad (1–5)** | **Hauptakteure**                      | **Korrekturpotenzial** | **Typisches Beispiel**                                                                                            |
 | ------------------------------------- | ---------------------------------- | ------------------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | **Informationsunterdrückung intern**  | 5                                  | Exxon, TotalEnergies, Shell           | niedrig                | Exxons Klimamodelle von 1977–1982[^fossil1][^fossil2]                                                             |
@@ -156,7 +161,7 @@ Die folgende Matrix systematisiert typische Verzögerungsstrategien fossiler Akt
 | **Juristisches Outsourcing**          | 3                                  | Konzernholdingstrukturen              | gering                 | Abwehr von Klagen trotz globalem Schaden (z. B. Shell Nigeria)[^fossil13][^fossil14]                              |
 | **Export strategischer Abhängigkeit** | 4                                  | Shell, Chevron, Internationale Banken | niedrig                | Finanzierung fossiler Projekte im Globalen Süden[^fossil15]                                                       |
 
-> 📌 **Hinweis**: „Systemischer Schweregrad“ erfasst, wie tief die Strategie institutionell und rechtlich verankert ist. „Korrekturpotenzial“ reflektiert die Wirksamkeit gesellschaftlicher oder juristischer Gegenstrategien.
+📌 **Hinweis:** Die Einschätzungen sind heuristisch – sie sollen Orientierung bieten, nicht exakte Messwerte.
 
 Diese Bewertung zeigt: Die fossile Industrie war nicht nur Mitwisserin – sie war **aktive Architektin des Zögerns**. Ihre Strategien reichen von semantischer Kontrolle über diskursive Ablenkung bis zur Erzeugung globaler Abhängigkeiten.
 
@@ -189,11 +194,9 @@ Nicht diejenigen, die entscheiden – sondern jene, die mit den Folgen leben mü
 
 Nicht Unwissen, sondern strategischer Zeitgewinn stand im Vordergrund – unterstützt durch gezielte Kommunikations- und Einflussstrategien.
 
-Der Schleier der Unsicherheit war kein Zufall – er wurde **konstruiert**.\
-Und verliert dort seine Macht, wo er **entlarvt** wird.
+Der Schleier der Unsicherheit war kein Zufall – er wurde **konstruiert**. Und verliert dort seine Macht, wo er **entlarvt** wird.
 
-Ob in Gerichtssälen, an Ölfeldern oder in der Zivilgesellschaft:\
-**Widerstand beginnt dort, wo Sprache präzise wird – und Wissen öffentlich zugänglich.**
+Ob in Gerichtssälen, an Ölfeldern oder in der Zivilgesellschaft: **Widerstand beginnt dort, wo Sprache präzise wird – und Wissen öffentlich zugänglich.**
 
 ## 🧠 Meta-Analyse
 
@@ -205,7 +208,7 @@ Ob in Gerichtssälen, an Ölfeldern oder in der Zivilgesellschaft:\
 | **Mechanik der Wirkung**               | Erzeugung von Unsicherheit, Unterdrückung interner Forschung, bewusste Irreführung, internationale Netzwerke.            |
 | **Regionale Verankerung**              | Global – mit starken Wirkungen in USA, Europa, Saudi-Arabien, Russland, aber auch operativ im Globalen Süden.            |
 | **Export von Strategien in den Süden** | Verzögerung durch strukturelle Abhängigkeit, ökologische Ausbeutung, Kooperation mit Eliten, Missachtung lokaler Rechte. |
-| **Riss im Muster**                     | Juristische und zivilgesellschaftliche Gegenwehr (z. B. Uganda, Ecuador, Niger-Delta).                                   |
+| **Riss im Muster**                     | Juristische und zivilgesellschaftliche Gegenwehr (z. B. in Uganda, Ecuador, Niger-Delta).                                |
 | **Zentrale Quellen**                   | Exxon-Modelle, API-Papier, Shell-Video, BP-Werbung, NGO-Berichte, Gerichtsurteile.                                       |
 | **Art der Quellenbasis**               | Wissenschaftliche Studien, interne Dokumente, Medienberichte, NGO-Analysen, juristische Entscheidungen.                  |
 

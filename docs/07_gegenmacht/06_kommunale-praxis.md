@@ -1,10 +1,10 @@
 ---
-title: "7.7 Kommunale Praxis – Systemmuster und Hebel vor Ort"
+title: "7.6 Kommunale Praxis – Systemmuster und Hebel vor Ort"
 description: >
   Wie Blockaden und Brüche sich im Alltag von Städten und Gemeinden zeigen – und welche konkreten Hebel Kommunen für Klimawandel und gesellschaftlichen Wandel nutzen können.
 ---
 
-# 7.7 Kommunale Praxis – Systemmuster und Hebel vor Ort
+# 7.6 Kommunale Praxis – Systemmuste‚r und Hebel vor Ort
 
 ## ❓ Warum sind Kommunen zentrale Orte für Wandel – und für Verzögerung?
 

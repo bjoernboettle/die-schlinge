@@ -6,7 +6,7 @@ description: >
 
 # 6.7 Medien – Die Gleichgewichtsillusion
 
-Dieses Kapitel zeigt, wie mediale Mechanismen – von scheinbarer Ausgewogenheit bis zur Click-Ökonomie – unsere Wahrnehmung der Klimakrise verzerren. Es erklärt, warum Sichtbarkeit über Einfluss entscheidet – und wie journalistische Logiken Verantwortung verschleiern können.
+Dieses Kapitel zeigt, wie mediale Mechanismen – von scheinbarer Ausgewogenheit bis zur Click-Ökonomie – unsere Wahrnehmung der Klimakrise verzerren. Es erklärt, warum Sichtbarkeit über Einfluss entscheidet – und wie journalistische Logiken Verantwortung verschleiern können, inklusive der Rolle zugespitzter Falschmeldungen (**„Fake News“**) als Beschleuniger von Desinformation.
 
 ## 🧭 Wenn Ausgewogenheit zur Verzerrung wird
 
@@ -98,7 +98,8 @@ Journalist:innen streben häufig nach Ausgewogenheit. Doch wenn sie gegensätzli
 Gerade in der Klimaberichterstattung ist das folgenreich: Der wissenschaftliche Konsens ist in zentralen Fragen breit abgestützt. Werden dennoch Desinformation oder gezielte Relativierungen gleichrangig behandelt, wird dieser Konsens unsichtbar gemacht.
 
 **Falsche Ausgewogenheit stiftet keine Aufklärung – sondern Verwirrung.**\
-Studien wie Boykoff & Boykoff (2004) und Berichte des Reuters Institute zeigen: Wenn Medien fundierte Erkenntnisse mit haltlosen Gegenmeinungen inszenieren, wird die Wahrnehmung der Krise systematisch verzerrt.[^medien1][^medien10]
+Studien wie Boykoff & Boykoff (2004) und Berichte des Reuters Institute zeigen: Wenn Medien fundierte Erkenntnisse mit haltlosen Gegenmeinungen inszenieren, wird die Wahrnehmung der Krise systematisch verzerrt.[^medien1][^medien10]\
+In der Praxis verstärken **kurze, emotionale „Fake-News“-Formate** diese Verzerrung – sie sind anschlussfähig, leicht teilbar und oft schneller als Korrekturen.
 
 ### Konflikt als Show – Erkenntnis als Kulisse
 
@@ -112,7 +113,7 @@ Untersuchungen belegen: Der mediale Wechsel vom **Fakt** zur **Position** beeinf
 
 Im digitalen Raum zählen Klicks. Auch die Klimakrise muss Aufmerksamkeit generieren – mit Schlagzeilen, dramatischen Bildern, emotionalem Ton.
 
-Die Folge: **Zuspitzung statt Differenzierung**. Die Krise erscheint als spektakuläres Ereignis – nicht als systemisches Dauerproblem.
+Die Folge: **Zuspitzung statt Differenzierung**. Die Krise erscheint als spektakuläres Ereignis – nicht als systemisches Dauerproblem. Algorithmen begünstigen **kontrovers-emotionale Kurzformate**; dadurch erhalten _„Fake News“_ eine **Reichweitenrendite**, die sachliche Einordnung selten erreicht.
 
 Bereits 1972 beschrieb Anthony Downs diesen Mechanismus als _Issue Attention Cycle_: Themen durchlaufen Wellen der medialen Aufmerksamkeit – Hitzesommer, dann klimatischer Winter. Das erzeugt Ermüdung statt Dringlichkeit.[^medien3]
 
@@ -127,7 +128,8 @@ Zwei zentrale Begriffe:
 - **Greenhushing**: gezieltes Schweigen über Emissionen oder Umweltrisiken
 - **Climate-Washing**: PR-gesteuerte Darstellung angeblicher ökologischer Verantwortung
 
-Die NGO InfluenceMap dokumentierte 2021, wie Konzerne wie ExxonMobil oder Shell auf über 50 Medienplattformen grüne Imagekampagnen ausspielten – algorithmisch optimiert für maximale Wirkung.[^medien4]
+Die NGO InfluenceMap dokumentierte 2021, wie Konzerne wie ExxonMobil oder Shell auf über 50 Medienplattformen grüne Imagekampagnen ausspielten – algorithmisch optimiert für maximale Wirkung.[^medien4]\
+Zwischen **PR-Frames** und **„Fake-News“-Schnipseln** verschwimmen für Publikum und Plattform oft die Grenzen der Quelle – Wirkung zählt mehr als Herkunft.
 
 ### Globale Verzerrung – Medien im Süden
 
@@ -145,15 +147,21 @@ Laut UNESCO ist der Zugang zu medialer Sichtbarkeit im Süden strukturell einges
 > **Wie funktionieren Verzerrungen konkret?**
 > Dieser Überblick zeigt fünf typische Medientypen, die in der Klimaberichterstattung Verzögerung fördern – durch Auswahl, Struktur oder Darstellung.
 
-| Symbol | Typischer Medientyp         | Verzerrungsmuster              | Beispielhafte Ausprägung                                         |
-| ------ | --------------------------- | ------------------------------ | ---------------------------------------------------------------- |
-| 🌓     | **Balance-Medien**          | False Balance                  | Zwei Meinungen – eine Bühne: Konsens wird als Debatte inszeniert |
-| 🔥     | **Klick-Medien**            | Aufmerksamkeitsdrama           | Extreme Bilder, starke Titel, wenig Kontext                      |
-| 🧼     | **Werbe-nahe Medien**       | Climate-Washing / Greenhushing | Öko-PR statt Fakten, Schweigen über Emissionen                   |
-| 🌍     | **Nord-fokussierte Medien** | Epistemische Ungleichheit      | Stimmen aus dem Süden kaum sichtbar                              |
-| 🥊     | **Debattenformate**         | Konfliktlogik vor Substanz     | Talkshows, Kolumnen, Empörung statt Aufklärung                   |
+| Symbol | Typischer Medientyp         | Verzerrungsmuster              | Beispielhafte Ausprägung                                                                           |
+| ------ | --------------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------- |
+| 🌓     | **Balance-Medien**          | False Balance                  | Zwei Meinungen – eine Bühne: Konsens wird als Debatte inszeniert                                   |
+| 🔥     | **Klick-Medien**            | Aufmerksamkeitsdrama           | Extreme Bilder, starke Titel, wenig Kontext; **virale „Fake-News“-Schnipsel**                      |
+| 🧼     | **Werbe-nahe Medien**       | Climate-Washing / Greenhushing | Öko-PR statt Fakten, Schweigen über Emissionen                                                     |
+| 🌍     | **Nord-fokussierte Medien** | Epistemische Ungleichheit      | Stimmen aus dem Süden kaum sichtbar                                                                |
+| 🥊     | **Debattenformate**         | Konfliktlogik vor Substanz     | Talkshows, Kolumnen, **Gegenpositionen erhalten Bühne – „Fake-News“ profitieren von Sichtbarkeit** |
 
 > 📌 Diese Typen schließen einander nicht aus – oft sind sie **miteinander verwoben**. Je stärker ein Medium strukturell auf Reichweite, Werbeabhängigkeit oder Meinung setzt, desto größer das Risiko medialer Verzerrung.
+
+> 📌 Begriff kurz erklärt – _Epistemische Ungleichheit_
+>
+> Gemeint ist die **ungleiche Anerkennung und Reichweite von Wissen**:\
+> Wer spricht (Institution, Land, Sprache), über welche Kanäle (Leitmedien, Plattformen) und mit welchen Ressourcen (PR, Forschungsgelder) entscheidet oft darüber, **welches Wissen als relevant gilt** – nicht nur seine Qualität.\
+> Beispiel: Ein NGO-Report aus dem Niger-Delta findet schwerer Gehör als ein Londoner Think-Tank-Briefing – selbst bei gleicher Faktendichte.s
 
 ## ⚡ Wenn Muster brechen
 
@@ -161,7 +169,7 @@ Im September 2024 verabschiedet Den Haag als erste Stadt weltweit ein Gesetz geg
 
 Keine Shell-Plakate mehr in U-Bahnstationen. Keine BP-Logos im Stadion. Keine Exxon-Spots im Kino.[^medien9]
 
-Ein symbolischer Schritt – aber Symbole schaffen neue Spielräume. Das Gesetz durchbricht die gewohnte Sichtbarkeit fossiler Konzerne. Es zeigt: **Sichtbarkeit ist politisch. Und Wandel ist möglich.**
+Ein symbolischer Schritt – aber Symbole schaffen neue Spielräume. Das Gesetz durchbricht die gewohnte Sichtbarkeit fossiler Konzerne. Es zeigt: **Sichtbarkeit ist politisch. Und Wandel ist möglich.** Indem fossile Werbung verschwindet, **verliert auch „Fake-News“-nahe PR** Sichtflächen und Normalisierung.
 
 ## 🌍 Globale Perspektiven – mediale Klimahierarchien
 
@@ -187,6 +195,7 @@ Ein anderer Klimajournalismus ist möglich: Plattformen könnten gezielt Stimmen
 In der Klimakrise tragen sie deshalb besondere Verantwortung. Doch oft fördern mediale Logiken eher Zweifel als Orientierung:
 
 - **False Balance** stellt Desinformation neben Fakten
+- **„Fake-News“-Formate** beschleunigen Verbreitung und Sichtbarkeit falscher Deutungen
 - **Plattformlogiken** belohnen Aufregung statt Aufklärung
 - **Globale Ungleichheiten** machen betroffene Stimmen unsichtbar
 

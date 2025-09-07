@@ -100,6 +100,6 @@ Verzögerung als Prozess **sichtbar machen – nicht nur Empörung referieren**.
 > Sprache kann beruhigen – oder beunruhigen.\
 > Journalist:innen entscheiden, was sichtbar wird: ein Skandal – oder ein Muster.
 
-Verzögerung beginnt dort, wo Begriffe nicht hinterfragt we
+Verzögerung beginnt dort, wo Begriffe nicht hinterfragt werden.
 
 <Footer />

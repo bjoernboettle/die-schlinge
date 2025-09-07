@@ -56,7 +56,7 @@ Verantwortung ist mehr als Schuld – sie ist Beziehung, Fürsorge und Zukunftsg
 
 **Interreligiöses Treffen, Nairobi, COP28.**\
 Ein runder Tisch unter grellem Licht. Es ist still, als die Moderatorin fragt: „Was ist Ihre gemeinsame Hoffnung?“\
-Vier Menschen sehen sich an: eine Rabbinern, ein Imam, eine Pastorin, ein Vertreter der Māori.
+Vier Menschen sehen sich an: eine Rabbinerin, ein Imam, eine Pastorin, ein Vertreter der Māori.
 
 Der Imam sagt: „Dass der Mensch sich wieder als Treuhänder begreift.“\
 Die Pastorin: „Dass wir erkennen: Die Welt gehört uns nicht.“\
@@ -105,6 +105,10 @@ Im Judentum gilt der Schutz der Erde nicht als Option, sondern als Gebot. Selbst
 
 Indigene Weltbilder – etwa von Quechua oder Māori – denken Naturbeziehungen radikal anders:\
 Der Mensch ist Teil eines lebendigen Ganzen. Das Klimaungleichgewicht erscheint hier nicht nur als Umweltproblem, sondern als **spirituelle Beziehungsstörung**.[^ethik4][^ethik5]
+
+### Säkularisierung als Verschiebung moralischer Autorität
+
+In Deutschland hat die konfessionelle Bindung in den letzten Jahrzehnten stark abgenommen; inzwischen ist über die Hälfte der Bevölkerung konfessionsfrei. Das bedeutet jedoch keinen Wegfall moralischer Orientierung, sondern eine Pluralisierung ihrer Träger: Neben Kirchen artikulieren heute säkular-ethische Positionen, Menschenrechts- und Klimagerechtigkeitsbewegungen sowie Gerichte (z. B. Generationengerechtigkeit) wirkmächtig Verantwortung. Religiöse Stimmen verlieren Reichweite, aber behalten Profil; säkulare Stimmen gewinnen an Sichtbarkeit – zusammen entsteht ein breiterer Resonanzraum für Klimaethik.
 
 ### Ethische Perspektiven – Pflicht zur Gerechtigkeit
 
@@ -185,6 +189,14 @@ So beschreibt Hartmut Rosa ein anderes Verhältnis zur Welt:\
 **Resonanz** meint Antwortfähigkeit statt Kontrolle.\
 **Offenheit statt Verfügbarkeit.**[^ethik11]
 
+> **Säkularisierung als Verschiebung moralischer Autorität**
+>
+> In Deutschland hat die konfessionelle Bindung in den letzten Jahrzehnten stark abgenommen; inzwischen ist über die Hälfte der Bevölkerung konfessionsfrei.
+>
+> Das bedeutet jedoch keinen Wegfall moralischer Orientierung, sondern eine **Pluralisierung ihrer Träger**: Neben Kirchen artikulieren heute säkular-ethische Positionen, Menschenrechts- und Klimagerechtigkeitsbewegungen sowie Gerichte (z. B. Generationengerechtigkeit) wirkmächtig Verantwortung.
+>
+> **Religiöse Stimmen verlieren Reichweite, aber behalten Profil; säkulare Stimmen gewinnen an Sichtbarkeit – zusammen entsteht ein breiterer Resonanzraum für Klimaethik.**
+
 Diese Haltung spiegelt sich in vielen indigenen Kosmologien:\
 Der Mensch ist kein Herrscher über die Natur, sondern Teil eines Ganzen.\
 Dieses Denken stellt westliche Trennungen – zwischen Natur und Kultur, Subjekt und Objekt – radikal infrage.
@@ -200,17 +212,23 @@ als Teil einer globalen Gemeinschaft, die das Leben als Ganzes schützt.
 
 ## ✅ Fazit
 
-Religiöse und ethische Stimmen setzen andere Akzente in der Klimadebatte.\
+Religiöse und ethische Stimmen setzen andere Akzente in der Klimadebatte.
 Sie rücken nicht Technik und Effizienz ins Zentrum, sondern **Würde, Mitgefühl und Verantwortung**.
 
-Ihr Maßstab ist nicht das Machbare, sondern das **Richtige**.\
+Ihr Maßstab ist nicht das Machbare, sondern das **Richtige**.
 Und ihre Frage lautet: **Was schulden wir einander – und der Welt, die uns trägt?**
 
-Dieser Blick verändert die Handlungsperspektive:\
-Verantwortung ist mehr als eine individuelle Haltung – sie kann auch gemeinsames Handeln und strukturelle Veränderung ermöglichen.\
+Dabei gilt: Verantwortung ist heute **plural** verankert.
+In Deutschland hat die konfessionelle Bindung stark abgenommen – über die Hälfte der Bevölkerung ist inzwischen konfessionsfrei.
+Doch an die Stelle kirchlicher Deutungshoheit tritt **kein moralisches Vakuum**, sondern eine **Pluralisierung der Träger**:
+Neben Kirchen artikulieren heute säkular-ethische Positionen, Menschenrechts- und Klimabewegungen sowie Gerichte (z. B. Generationengerechtigkeit) wirkmächtig Verantwortung.
+So entsteht ein **breiter Resonanzraum für Klimaethik**, in dem religiöse und säkulare Stimmen unterschiedlich gewichtet, aber komplementär wirken.
+
+Dieser Blick verändert die Handlungsperspektive:
+Verantwortung ist mehr als eine individuelle Haltung – sie kann auch gemeinsames Handeln und strukturelle Veränderung ermöglichen.
 Nicht Schuld, sondern Fürsorge steht im Mittelpunkt.
 
-Die Klimakrise ist mehr als ein technisches Problem –\
+Die Klimakrise ist mehr als ein technisches Problem –
 sie ist eine **moralische Herausforderung**.
 
 > **Wer das Leid erkennt, kann sich einer Haltung kaum entziehen.**

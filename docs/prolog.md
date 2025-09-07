@@ -11,11 +11,10 @@ description: >
 Vielleicht hast du diesen Satz schon oft gehört. Vielleicht hast du ihn selbst gesagt.
 Vielleicht spürst du beim Thema Klimakrise eine seltsame Mischung aus Klarheit und Ohnmacht:
 
-Die Fakten sind bekannt. Die Bedrohung ist real. Die Lösungen sind da.
-Und doch passiert… erschreckend wenig.
+Die Fakten liegen seit Jahrzehnten auf dem Tisch. Die Bedrohung ist real. Die Lösungen sind da. Und doch passiert… erschreckend wenig.
 
-Dieses Dossier beginnt genau an diesem Punkt.
-Nicht bei den Fakten – sondern bei der Frage: **Warum wirken sie nicht?**
+Dieses Dossier beginnt genau an diesem Punkt. Nicht bei der Existenz von Wissen – sondern bei der Frage: **Warum wirkt es so schwach?**
+Denn viele Fakten sind zwar verfügbar – aber sie bleiben oft unsichtbar, ungehört oder folgenlos.
 
 ## 🧰 Was du hier findest
 

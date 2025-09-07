@@ -1,18 +1,17 @@
 ---
 title: "Kapitel 5 – Zeitleiste"
 description: >
-  Überblick über 15 prägende Stationen – von den ersten CO₂-Warnungen bis zu Gerichtsurteilen, die Klimaschutz als Menschenrecht bestätigen.
+  Überblick über 16 prägende Stationen – von den ersten CO₂-Warnungen bis zu Gerichtsurteilen, die Klimaschutz als Menschenrecht bestätigen.
 hint: "Quellenprüfung durchführen"
 ---
 
 # Kapitel 5 – Zeitleiste zentraler Meilensteine (1957–2025)
 
-Diese Zeitleiste dokumentiert 16 markante Wendepunkte in Wissenschaft, Politik und Recht im Umgang mit der Klimakrise – vom frühen CO₂-Verständnis bis hin zur juristischen Verankerung von Klimaschutz.
+Diese Zeitleiste ist die **Detailübersicht** zu Kapitel 4 und führt **16 überprüfbare Meilensteine** in Wissenschaft, Politik und Recht auf – mit Jahr, Kurzbeschreibung und Quelle.
 
 ## 🧪 Wissenschaftliche Grundlagen (1957–1982)
 
-**Die Klimakrise wird messbar – und modellierbar.**\
-Schon früh erkennen Forscher:innen, dass menschengemachtes CO₂ das globale Klima verändert. Ihre Beobachtungen und Modelle liefern bereits damals erstaunlich präzise Prognosen.
+_Frühe Messungen und Modelle machen den menschengemachten Einfluss sichtbar._
 
 | Jahr     | Ereignis                                                                                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -23,8 +22,7 @@ Schon früh erkennen Forscher:innen, dass menschengemachtes CO₂ das globale Kl
 
 ## 🏛️ Internationale Klimapolitik entsteht (1988–2009)
 
-**Das Klimawissen erreicht die Politik – doch konkrete Maßnahmen bleiben aus.**\
-Internationale Gremien und Abkommen entstehen. Dennoch hinken die politischen Umsetzungen dem wissenschaftlichen Erkenntnisstand hinterher.
+_Politik reagiert – aber ohne ausreichende Verbindlichkeit._
 
 | Jahr     | Ereignis                                                                                                                                                                              |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,15 +33,14 @@ Internationale Gremien und Abkommen entstehen. Dennoch hinken die politischen Um
 
 ## 🧯 Symbolik, Stillstand – und juristische Wende (2015–2025)
 
-**Die Sprache wird ambitionierter – doch Gerichte schaffen Fakten.**\
-Während viele politische Prozesse stagnieren, setzen Gerichte erstmals verbindliche Maßstäbe. Sie erklären Klimaschutz zum einklagbaren Recht.
+_Ambition in Worten – Verbindlichkeit entsteht über Gerichte._
 
 | Jahr     | Ereignis                                                                                                                                                                                                                                                                                                                      |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **2015** | Das _Pariser Klimaabkommen_ formuliert ambitionierte Ziele (Begrenzung auf 1,5 °C bzw. 2 °C Erwärmung), enthält aber keine verbindlichen Umsetzungsmechanismen – nur freiwillige nationale Beiträge (NDCs).[^timeline9]                                                                                                       |
 | **2021** | Auf der COP26 in Glasgow wird das Ziel eines Kohleausstiegs abgeschwächt – aus „phased out“ wird „phased down“. Dies zeigt den Einfluss fossiler Interessen auf diplomatische Prozesse.[^timeline10]                                                                                                                          |
 | **2023** | Der _Emissions Gap Report_ des UNEP zeigt: Trotz aller Zusagen steuert die Welt auf 2,7 °C Erwärmung zu – deutlich über dem Pariser Zielpfad.[^timeline11]                                                                                                                                                                    |
-| **2023** | Der Europäische Gerichtshof für Menschenrechte erkennt an: Unzureichender Klimaschutz kann Grundrechte verletzen – ein juristischer Wendepunkt.[^timeline12]                                                                                                                                                                  |
+| **2024** | Der Europäische Gerichtshof für Menschenrechte erkennt an: Unzureichender Klimaschutz kann Grundrechte verletzen – ein juristischer Wendepunkt.[^timeline12]                                                                                                                                                                  |
 | **2024** | Die globale Jahresmitteltemperatur überschreitet erstmals 1,5 °C. Zugleich steigt die atmosphärische CO₂-Konzentration um 3,6 ppm – ein neuer Rekordwert.[^timeline13]                                                                                                                                                        |
 | **2024** | Der Internationale Gerichtshof (IGH) beginnt auf Initiative pazifischer Inselstaaten mit einem Gutachtenverfahren. Ziel ist eine völkerrechtliche Klärung, inwieweit Staaten für Klimafolgen Verantwortung tragen müssen. Das Verfahren wurde durch die UN-Generalversammlung beauftragt und ist nicht bindend.[^timeline14]  |
 | **2025** | Präsident Trump unterzeichnet am 20. Januar eine Executive Order zum Austritt aus dem Pariser Abkommen. Die formale Mitteilung an den UN-Generalsekretär erfolgt am selben Tag. Gemäß Artikel 28 des Abkommens wird der Austritt ein Jahr später, am 27. Januar 2026, wirksam.[^timeline15]                                   |
@@ -53,24 +50,24 @@ Während viele politische Prozesse stagnieren, setzen Gerichte erstmals verbindl
 
 > Alle Meilensteine sind durch belastbare Quellen belegt – nach Jahr, Quelle und Fundort geordnet.
 
-| Quelle / Autor                        | Jahr  | Quelle (Typ)             | Belegt was?                                                    | Verlinkung / Fundort |
-| ------------------------------------- | ----- | ------------------------ | -------------------------------------------------------------- | -------------------- |
-| Revelle & Suess (1957)                | 1957  | Wissenschaftliche Studie | Begrenzte CO₂-Aufnahmefähigkeit der Ozeane                     | [^timeline1]         |
-| Scripps Institution of Oceanography   | o. J. | Wissenschaftliche Studie | Beginn systematischer CO₂-Messreihen am Mauna Loa              | [^timeline2]         |
-| National Academy of Sciences (1979)   | 1979  | Wissenschaftliche Studie | _Charney-Report_ zur Klimaerwärmung                            | [^timeline3]         |
-| InsideClimate News (2015)             | 2015  | Medienbericht            | Exxon-interne Klimamodelle                                     | [^timeline4]         |
-| IPCC (o. J.)                          | o. J. | Regierungsdokument       | Gründung und Rolle des _IPCC_                                  | [^timeline5]         |
-| UNFCCC (1992)                         | 1992  | Regierungsdokument       | _UNFCCC_-Konvention                                            | [^timeline6]         |
-| UNFCCC (o. J.)                        | o. J. | Regierungsdokument       | _Kyoto-Protokoll_                                              | [^timeline7]         |
-| The Guardian (2009)                   | 2009  | Medienbericht            | Scheitern der COP15 in Kopenhagen                              | [^timeline8]         |
-| UNFCCC (2015)                         | 2015  | Regierungsdokument       | _Pariser Klimaabkommen_                                        | [^timeline9]         |
-| BBC (2021)                            | 2021  | Medienbericht            | Abschwächung der Kohle-Formulierung bei COP26                  | [^timeline10]        |
-| UNEP (2023)                           | 2023  | NGO-Bericht              | Emissions Gap Report und Temperaturprognose                    | [^timeline11]        |
-| EGMR (2024)                           | 2024  | Gerichtsurteil           | Anerkennung von Klimaschutz als Menschenrecht                  | [^timeline12]        |
-| Reuters (2025)                        | 2025  | Medienbericht            | Überschreitung der 1,5 °C-Schwelle im Jahr 2024                | [^timeline13]        |
-| International Court of Justice (2024) | 2024  | Gerichtsdokument         | IGH-Gutachten zur Klimaverantwortung von Staaten               | [^timeline14]        |
-| White House (2025)                    | 2025  | Regierungsdokument       | Executive Order zum Austritt aus dem _Pariser Abkommen_        | [^timeline15]        |
-| International Court of Justice (2025) | 2025  | Gerichtsdokument         | IGH-Gutachten: Staaten haften völkerrechtlich für Klimaschäden | [^timeline16]        |
+| Quelle / Autor                        | Jahr  | Quelle (Typ)                        | Belegt was?                                                    | Verlinkung / Fundort |
+| ------------------------------------- | ----- | ----------------------------------- | -------------------------------------------------------------- | -------------------- |
+| Revelle & Suess (1957)                | 1957  | Wissenschaftliche Studie            | Begrenzte CO₂-Aufnahmefähigkeit der Ozeane                     | [^timeline1]         |
+| Scripps Institution of Oceanography   | o. J. | Messreihe/Observatorium (Messdaten) | Beginn systematischer CO₂-Messreihen am Mauna Loa              | [^timeline2]         |
+| National Academy of Sciences (1979)   | 1979  | Wissenschaftliche Studie            | _Charney-Report_ zur Klimaerwärmung                            | [^timeline3]         |
+| InsideClimate News (2015)             | 2015  | Medienbericht                       | Exxon-interne Klimamodelle                                     | [^timeline4]         |
+| IPCC (o. J.)                          | o. J. | Regierungsdokument                  | Gründung und Rolle des _IPCC_                                  | [^timeline5]         |
+| UNFCCC (1992)                         | 1992  | Regierungsdokument                  | _UNFCCC_-Konvention                                            | [^timeline6]         |
+| UNFCCC (o. J.)                        | o. J. | Regierungsdokument                  | _Kyoto-Protokoll_                                              | [^timeline7]         |
+| The Guardian (2009)                   | 2009  | Medienbericht                       | Scheitern der COP15 in Kopenhagen                              | [^timeline8]         |
+| UNFCCC (2015)                         | 2015  | Regierungsdokument                  | _Pariser Klimaabkommen_                                        | [^timeline9]         |
+| BBC (2021)                            | 2021  | Medienbericht                       | Abschwächung der Kohle-Formulierung bei COP26                  | [^timeline10]        |
+| UNEP (2023)                           | 2023  | UN-Bericht                          | Emissions Gap Report und Temperaturprognose                    | [^timeline11]        |
+| EGMR (2024)                           | 2024  | Gerichtsurteil                      | Anerkennung von Klimaschutz als Menschenrecht                  | [^timeline12]        |
+| Reuters (2025)                        | 2025  | Medienbericht                       | Überschreitung der 1,5 °C-Schwelle im Jahr 2024                | [^timeline13]        |
+| International Court of Justice (2024) | 2024  | Gerichtsdokument                    | IGH-Gutachten zur Klimaverantwortung von Staaten               | [^timeline14]        |
+| White House (2025)                    | 2025  | Regierungsdokument                  | Executive Order zum Austritt aus dem _Pariser Abkommen_        | [^timeline15]        |
+| International Court of Justice (2025) | 2025  | Gerichtsdokument                    | IGH-Gutachten: Staaten haften völkerrechtlich für Klimaschäden | [^timeline16]        |
 
 [^timeline1]: Revelle, Roger & Suess, Hans E. (1957): _Carbon dioxide exchange between atmosphere and ocean_. [Peer-Review-Artikel]. Tellus, 9(1), 18–27. Verfügbar unter: [https://doi.org/10.3402/tellusa.v9i1.9075](https://doi.org/10.3402/tellusa.v9i1.9075) [Zugriff am: 19.07.2025].
 [^timeline2]: Scripps Institution of Oceanography (o. J.): "Keeling Curve". [Offizielle Webseite]. Verfügbar unter: [https://scrippsco2.ucsd.edu](https://scrippsco2.ucsd.edu) [Zugriff am: 19.07.2025].
